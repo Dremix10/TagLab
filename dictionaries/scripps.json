@@ -1137,6 +1137,22 @@
         200
       ],
       "visible": true
+    },
+    {
+      "id": "Person",
+      "name": "Person",
+      "description": null,
+      "fill": [
+        135,
+        62,
+        35
+      ],
+      "border": [
+        200,
+        200,
+        200
+      ],
+      "visible": true
     }
   ]
 }
