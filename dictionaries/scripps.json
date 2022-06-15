@@ -1153,6 +1153,86 @@
         200
       ],
       "visible": true
+    },
+    {
+    "id": "Tree",
+    "name": "Tree",
+    "description": null,
+    "fill": [
+      0,
+      255,
+      0
+    ],
+    "border": [
+      200,
+      200,
+      200
+    ],
+    "visible": true
+    },
+    {
+    "id": "Car",
+    "name": "Car",
+    "description": null,
+    "fill": [
+      43,
+      123,
+      123
+    ],
+    "border": [
+      200,
+      200,
+      200
+    ],
+    "visible": true
+    },
+    {
+    "id": "Bus",
+    "name": "Bus",
+    "description": null,
+    "fill": [
+      255,
+      170,
+      0
+    ],
+    "border": [
+      200,
+      200,
+      200
+    ],
+    "visible": true
+    },
+    {
+    "id": "Bicycle",
+    "name": "Bicycle",
+    "description": null,
+    "fill": [
+      255,
+      85,
+      0
+    ],
+    "border": [
+      200,
+      200,
+      200
+    ],
+    "visible": true
+    },
+    {
+    "id": "Motorcycle",
+    "name": "Motorcycle",
+    "description": null,
+    "fill": [
+      170,
+      85,
+      255
+    ],
+    "border": [
+      200,
+      200,
+      200
+    ],
+    "visible": true
     }
   ]
 }

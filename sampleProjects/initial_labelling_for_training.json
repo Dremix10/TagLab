@@ -1,0 +1,2621 @@
+{
+ "filename": "sampleProjects/initial_labelling_for_training.json",
+ "working_area": null,
+ "dictionary_name": "scripps",
+ "dictionary_description": "These color codes are the ones typically used by the Scripps Institution of Oceanography (UCSD)",
+ "labels": {
+  "Empty": {
+   "id": "Empty",
+   "name": "Empty",
+   "description": null,
+   "fill": [
+    127,
+    127,
+    127
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Corallimorph/Urchin": {
+   "id": "Corallimorph/Urchin",
+   "name": "Corallimorph/Urchin",
+   "description": null,
+   "fill": [
+    255,
+    0,
+    10
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Sea Star": {
+   "id": "Sea Star",
+   "name": "Sea Star",
+   "description": null,
+   "fill": [
+    113,
+    39,
+    43
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Sea Cucumber": {
+   "id": "Sea Cucumber",
+   "name": "Sea Cucumber",
+   "description": null,
+   "fill": [
+    55,
+    5,
+    8
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Cavularia": {
+   "id": "Cavularia",
+   "name": "Cavularia",
+   "description": null,
+   "fill": [
+    158,
+    11,
+    15
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Zooanthid": {
+   "id": "Zooanthid",
+   "name": "Zooanthid",
+   "description": null,
+   "fill": [
+    121,
+    0,
+    0
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Sinularia": {
+   "id": "Sinularia",
+   "name": "Sinularia",
+   "description": null,
+   "fill": [
+    117,
+    76,
+    36
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Sarcophyton": {
+   "id": "Sarcophyton",
+   "name": "Sarcophyton",
+   "description": null,
+   "fill": [
+    96,
+    57,
+    19
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Cryptodendrum": {
+   "id": "Cryptodendrum",
+   "name": "Cryptodendrum",
+   "description": null,
+   "fill": [
+    140,
+    98,
+    57
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Pocillopora": {
+   "id": "Pocillopora",
+   "name": "Pocillopora",
+   "description": null,
+   "fill": [
+    240,
+    110,
+    170
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Porite": {
+   "id": "Porite",
+   "name": "Porite",
+   "description": null,
+   "fill": [
+    0,
+    162,
+    232
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Pocillopora_damicornis": {
+   "id": "Pocillopora_damicornis",
+   "name": "Pocillopora_damicornis",
+   "description": null,
+   "fill": [
+    231,
+    70,
+    170
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Pocillopora_zelli": {
+   "id": "Pocillopora_zelli",
+   "name": "Pocillopora_zelli",
+   "description": null,
+   "fill": [
+    240,
+    171,
+    203
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Pocillopora_eydouxi": {
+   "id": "Pocillopora_eydouxi",
+   "name": "Pocillopora_eydouxi",
+   "description": null,
+   "fill": [
+    102,
+    45,
+    145
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Stylophora": {
+   "id": "Stylophora",
+   "name": "Stylophora",
+   "description": null,
+   "fill": [
+    146,
+    39,
+    143
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Acropora_branching": {
+   "id": "Acropora_branching",
+   "name": "Acropora_branching",
+   "description": null,
+   "fill": [
+    158,
+    0,
+    93
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Acropora_corymbose": {
+   "id": "Acropora_corymbose",
+   "name": "Acropora_corymbose",
+   "description": null,
+   "fill": [
+    133,
+    96,
+    168
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Montipora_capitata": {
+   "id": "Montipora_capitata",
+   "name": "Montipora_capitata",
+   "description": null,
+   "fill": [
+    119,
+    255,
+    198
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Pavona_cactus": {
+   "id": "Pavona_cactus",
+   "name": "Pavona_cactus",
+   "description": null,
+   "fill": [
+    23,
+    146,
+    144
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Porites_branching": {
+   "id": "Porites_branching",
+   "name": "Porites_branching",
+   "description": null,
+   "fill": [
+    0,
+    169,
+    157
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Favites_crust": {
+   "id": "Favites_crust",
+   "name": "Favites_crust",
+   "description": null,
+   "fill": [
+    255,
+    247,
+    153
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Montipora_crust/patula": {
+   "id": "Montipora_crust/patula",
+   "name": "Montipora_crust/patula",
+   "description": null,
+   "fill": [
+    171,
+    160,
+    0
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Montipora": {
+   "id": "Montipora",
+   "name": "Montipora",
+   "description": null,
+   "fill": [
+    0,
+    128,
+    0
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Pavona_varians": {
+   "id": "Pavona_varians",
+   "name": "Pavona_varians",
+   "description": null,
+   "fill": [
+    43,
+    126,
+    123
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Porites_superfusa": {
+   "id": "Porites_superfusa",
+   "name": "Porites_superfusa",
+   "description": null,
+   "fill": [
+    251,
+    175,
+    93
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Hydnophora_pilosa": {
+   "id": "Hydnophora_pilosa",
+   "name": "Hydnophora_pilosa",
+   "description": null,
+   "fill": [
+    253,
+    198,
+    137
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Leptastrea": {
+   "id": "Leptastrea",
+   "name": "Leptastrea",
+   "description": null,
+   "fill": [
+    255,
+    245,
+    104
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Psammocora": {
+   "id": "Psammocora",
+   "name": "Psammocora",
+   "description": null,
+   "fill": [
+    163,
+    211,
+    156
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Leptoseris": {
+   "id": "Leptoseris",
+   "name": "Leptoseris",
+   "description": null,
+   "fill": [
+    130,
+    123,
+    0
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Fungia_single": {
+   "id": "Fungia_single",
+   "name": "Fungia_single",
+   "description": null,
+   "fill": [
+    242,
+    101,
+    34
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Fungia_multiple": {
+   "id": "Fungia_multiple",
+   "name": "Fungia_multiple",
+   "description": null,
+   "fill": [
+    247,
+    148,
+    29
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Porite_massive": {
+   "id": "Porite_massive",
+   "name": "Porite_massive",
+   "description": null,
+   "fill": [
+    109,
+    207,
+    246
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Porites_rus": {
+   "id": "Porites_rus",
+   "name": "Porites_rus",
+   "description": null,
+   "fill": [
+    81,
+    191,
+    223
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Flavia_matthai": {
+   "id": "Flavia_matthai",
+   "name": "Flavia_matthai",
+   "description": null,
+   "fill": [
+    122,
+    204,
+    200
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Hydnophora_microconos": {
+   "id": "Hydnophora_microconos",
+   "name": "Hydnophora_microconos",
+   "description": null,
+   "fill": [
+    131,
+    147,
+    202
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Montastrea": {
+   "id": "Montastrea",
+   "name": "Montastrea",
+   "description": null,
+   "fill": [
+    0,
+    174,
+    239
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Cyphastrea": {
+   "id": "Cyphastrea",
+   "name": "Cyphastrea",
+   "description": null,
+   "fill": [
+    140,
+    187,
+    184
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Lobophyllia": {
+   "id": "Lobophyllia",
+   "name": "Lobophyllia",
+   "description": null,
+   "fill": [
+    0,
+    84,
+    166
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Platgyra": {
+   "id": "Platgyra",
+   "name": "Platgyra",
+   "description": null,
+   "fill": [
+    0,
+    91,
+    127
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Favia_submassive": {
+   "id": "Favia_submassive",
+   "name": "Favia_submassive",
+   "description": null,
+   "fill": [
+    125,
+    167,
+    217
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Favites_submassive": {
+   "id": "Favites_submassive",
+   "name": "Favites_submassive",
+   "description": null,
+   "fill": [
+    27,
+    20,
+    100
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Pavona_submassive": {
+   "id": "Pavona_submassive",
+   "name": "Pavona_submassive",
+   "description": null,
+   "fill": [
+    46,
+    49,
+    146
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Goniastrea_pectinata": {
+   "id": "Goniastrea_pectinata",
+   "name": "Goniastrea_pectinata",
+   "description": null,
+   "fill": [
+    86,
+    116,
+    185
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Astreopora": {
+   "id": "Astreopora",
+   "name": "Astreopora",
+   "description": null,
+   "fill": [
+    0,
+    52,
+    113
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Acropora_table": {
+   "id": "Acropora_table",
+   "name": "Acropora_table",
+   "description": null,
+   "fill": [
+    0,
+    94,
+    32
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Montipora_plate/flabellata": {
+   "id": "Montipora_plate/flabellata",
+   "name": "Montipora_plate/flabellata",
+   "description": null,
+   "fill": [
+    89,
+    133,
+    39
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Hydnophora_exesa": {
+   "id": "Hydnophora_exesa",
+   "name": "Hydnophora_exesa",
+   "description": null,
+   "fill": [
+    0,
+    166,
+    81
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Tubinaria": {
+   "id": "Tubinaria",
+   "name": "Tubinaria",
+   "description": null,
+   "fill": [
+    141,
+    198,
+    63
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Tubastrea": {
+   "id": "Tubastrea",
+   "name": "Tubastrea",
+   "description": null,
+   "fill": [
+    170,
+    202,
+    174
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "CCA": {
+   "id": "CCA",
+   "name": "CCA",
+   "description": null,
+   "fill": [
+    254,
+    207,
+    5
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Halimeda": {
+   "id": "Halimeda",
+   "name": "Halimeda",
+   "description": null,
+   "fill": [
+    0,
+    255,
+    0
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Dictyophaeria": {
+   "id": "Dictyophaeria",
+   "name": "Dictyophaeria",
+   "description": null,
+   "fill": [
+    64,
+    102,
+    24
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Lobophora": {
+   "id": "Lobophora",
+   "name": "Lobophora",
+   "description": null,
+   "fill": [
+    233,
+    5,
+    254
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Peysonnelia": {
+   "id": "Peysonnelia",
+   "name": "Peysonnelia",
+   "description": null,
+   "fill": [
+    35,
+    177,
+    233
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "CCA Other": {
+   "id": "CCA Other",
+   "name": "CCA Other",
+   "description": null,
+   "fill": [
+    7,
+    55,
+    210
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "30/70 CCA + Turf": {
+   "id": "30/70 CCA + Turf",
+   "name": "30/70 CCA + Turf",
+   "description": null,
+   "fill": [
+    7,
+    210,
+    17
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "70/30 CCA + Turf": {
+   "id": "70/30 CCA + Turf",
+   "name": "70/30 CCA + Turf",
+   "description": null,
+   "fill": [
+    254,
+    5,
+    81
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "50/50 CCA + Turf": {
+   "id": "50/50 CCA + Turf",
+   "name": "50/50 CCA + Turf",
+   "description": null,
+   "fill": [
+    122,
+    7,
+    210
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Turf": {
+   "id": "Turf",
+   "name": "Turf",
+   "description": null,
+   "fill": [
+    36,
+    124,
+    77
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Caulerpa": {
+   "id": "Caulerpa",
+   "name": "Caulerpa",
+   "description": null,
+   "fill": [
+    133,
+    170,
+    81
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Avrainvillea": {
+   "id": "Avrainvillea",
+   "name": "Avrainvillea",
+   "description": null,
+   "fill": [
+    19,
+    41,
+    23
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Galaxaura": {
+   "id": "Galaxaura",
+   "name": "Galaxaura",
+   "description": null,
+   "fill": [
+    157,
+    29,
+    31
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Halimeda opuntia": {
+   "id": "Halimeda opuntia",
+   "name": "Halimeda opuntia",
+   "description": null,
+   "fill": [
+    161,
+    239,
+    24
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Halimeda fragilis": {
+   "id": "Halimeda fragilis",
+   "name": "Halimeda fragilis",
+   "description": null,
+   "fill": [
+    98,
+    151,
+    103
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Halimeda taenicola": {
+   "id": "Halimeda taenicola",
+   "name": "Halimeda taenicola",
+   "description": null,
+   "fill": [
+    20,
+    114,
+    20
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Diplosoma": {
+   "id": "Diplosoma",
+   "name": "Diplosoma",
+   "description": null,
+   "fill": [
+    89,
+    252,
+    100
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Unknow": {
+   "id": "Unknow",
+   "name": "Unknow",
+   "description": null,
+   "fill": [
+    225,
+    225,
+    225
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Unknow_submassive": {
+   "id": "Unknow_submassive",
+   "name": "Unknow_submassive",
+   "description": null,
+   "fill": [
+    183,
+    183,
+    183
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Unknow_massive": {
+   "id": "Unknow_massive",
+   "name": "Unknow_massive",
+   "description": null,
+   "fill": [
+    149,
+    149,
+    149
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Unknow_crust": {
+   "id": "Unknow_crust",
+   "name": "Unknow_crust",
+   "description": null,
+   "fill": [
+    85,
+    85,
+    85
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Other": {
+   "id": "Other",
+   "name": "Other",
+   "description": null,
+   "fill": [
+    54,
+    54,
+    54
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Person": {
+   "id": "Person",
+   "name": "Person",
+   "description": null,
+   "fill": [
+    135,
+    62,
+    35
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Tree": {
+   "id": "Tree",
+   "name": "Tree",
+   "description": null,
+   "fill": [
+    0,
+    255,
+    0
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Car": {
+   "id": "Car",
+   "name": "Car",
+   "description": null,
+   "fill": [
+    43,
+    126,
+    123
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Bus": {
+   "id": "Bus",
+   "name": "Bus",
+   "description": null,
+   "fill": [
+    255,
+    170,
+    0
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Bicycle": {
+   "id": "Bicycle",
+   "name": "Bicycle",
+   "description": null,
+   "fill": [
+    255,
+    85,
+    0
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Carr": {
+   "id": "Carr",
+   "name": "Carr",
+   "description": null,
+   "fill": [
+    170,
+    85,
+    255
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Truck": {
+   "id": "Truck",
+   "name": "Truck",
+   "description": null,
+   "fill": [
+    85,
+    0,
+    0
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  }
+ },
+ "images": [
+  {
+   "rect": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "map_px_to_mm_factor": "3",
+   "width": 2736,
+   "height": 1824,
+   "annotations": [
+    {
+     "bbox": [
+      217,
+      1015,
+      32,
+      32
+     ],
+     "centroid": [
+      1031.3,
+      234.6
+     ],
+     "area": 467.0,
+     "perimeter": 82.4,
+     "contour": "10300 2464 -20 0 -10 -10 -30 0 -10 -10 -10 0 -4 -4 0 -10 -10 -10 0 -30 -10 -10 0 -70 10 -10 0 -10 20 -20 0 -10 34 -34 10 0 10 -10 30 0 20 20 20 0 40 40 10 0 34 34 0 30 10 10 0 40 -10 10 0 10 -14 14 -10 0 -10 10 -10 0 -10 10 -20 0 -10 10 -40 0 -10 10",
+     "inner contours": [],
+     "class name": "Carr",
+     "instance name": "coral0",
+     "blob name": "c-0-1031.3x-234.7y",
+     "id": 0,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      244,
+      1001,
+      28,
+      34
+     ],
+     "centroid": [
+      1016.1,
+      262.8
+     ],
+     "area": 445.0,
+     "perimeter": 82.2,
+     "contour": "10190 2754 -80 0 -10 -10 -10 0 -24 -24 0 -30 -10 -10 0 -60 10 -10 0 -10 10 -10 0 -10 10 -10 0 -10 10 -10 0 -20 24 -24 10 0 10 -10 20 0 10 -10 40 0 24 24 0 10 10 10 0 10 -10 10 10 10 0 30 10 10 0 20 10 10 0 40 -10 10 0 30 -24 24 -10 0 -10 10 -10 0 -10 10",
+     "inner contours": [],
+     "class name": "Carr",
+     "instance name": "coral1",
+     "blob name": "c-1-1016.1x-262.9y",
+     "id": 1,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      272,
+      990,
+      33,
+      33
+     ],
+     "centroid": [
+      1007.6,
+      289.3
+     ],
+     "area": 545.0,
+     "perimeter": 87.6,
+     "contour": "10080 3024 -40 0 -10 -10 -20 0 -10 -10 -10 0 -10 -10 -10 0 -4 -4 -10 -10 0 -20 -10 -10 0 -60 10 -10 0 -30 10 -10 0 -10 54 -54 40 0 10 -10 70 0 10 10 20 0 14 14 0 10 10 10 0 40 10 10 0 60 -10 10 0 10 -10 10 0 10 -44 44 -10 0 -10 10 -30 0 -10 10",
+     "inner contours": [],
+     "class name": "Carr",
+     "instance name": "coral2",
+     "blob name": "c-2-1007.6x-289.3y",
+     "id": 2,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      295,
+      977,
+      30,
+      33
+     ],
+     "centroid": [
+      992.9,
+      312.6
+     ],
+     "area": 504.0,
+     "perimeter": 84.5,
+     "contour": "9920 3254 -40 0 -10 -10 -30 0 -24 -24 0 -130 10 -10 0 -10 10 -10 0 -10 44 -44 40 0 10 -10 50 0 10 10 10 0 10 10 10 0 4 4 0 10 20 20 0 120 -20 20 0 10 -10 10 0 10 -4 4 -10 0 -10 10 -10 0 -10 10 -40 0 -10 10",
+     "inner contours": [],
+     "class name": "Carr",
+     "instance name": "coral3",
+     "blob name": "c-3-992.9x-312.6y",
+     "id": 3,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      314,
+      950,
+      31,
+      36
+     ],
+     "centroid": [
+      966.3,
+      333.5
+     ],
+     "area": 545.0,
+     "perimeter": 90.2,
+     "contour": "9630 3474 -20 0 -10 -10 -20 0 -14 -14 0 -10 -10 -10 0 -20 -10 -10 0 -70 10 -10 0 -20 10 -10 0 -20 20 -20 0 -20 24 -24 10 0 10 -10 30 0 10 -10 40 0 10 10 10 0 24 24 0 40 10 10 0 20 10 10 0 30 10 10 0 30 -10 10 0 30 -10 10 0 10 -10 10 -4 4 -10 0 -10 10 -20 0 -10 10 -60 0 -10 10",
+     "inner contours": [],
+     "class name": "Carr",
+     "instance name": "coral4",
+     "blob name": "c-4-966.4x-333.5y",
+     "id": 4,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      284,
+      934,
+      33,
+      34
+     ],
+     "centroid": [
+      951.4,
+      302.4
+     ],
+     "area": 572.0,
+     "perimeter": 89.6,
+     "contour": "9520 3154 -80 0 -10 -10 -20 0 -14 -14 0 -10 -10 -10 0 -100 10 -10 0 -10 10 -10 0 -20 44 -44 10 0 10 -10 10 0 10 -10 30 0 10 -10 50 0 10 10 10 0 20 20 4 4 0 10 10 10 0 30 10 10 0 80 -10 10 0 10 -54 54 -10 0 -10 10 -30 0 -10 10",
+     "inner contours": [],
+     "class name": "Carr",
+     "instance name": "coral5",
+     "blob name": "c-5-951.5x-302.4y",
+     "id": 5,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      314,
+      909,
+      39,
+      41
+     ],
+     "centroid": [
+      929.9,
+      336.2
+     ],
+     "area": 816.0,
+     "perimeter": 109.7,
+     "contour": "9360 3524 -60 0 -10 -10 -30 0 -10 -10 -20 0 -10 -10 -10 0 -10 -10 -30 0 -24 -24 0 -10 -10 -10 0 -30 10 -10 0 -40 10 -10 0 -20 10 -10 0 -10 10 -10 0 -10 10 -10 0 -10 10 -10 0 -10 54 -54 30 0 10 -10 50 0 10 10 10 0 20 20 10 0 14 14 0 10 10 10 0 10 10 10 0 20 10 10 0 10 10 10 0 30 10 10 0 50 -10 10 0 10 -10 10 0 10 -10 10 0 10 -4 4 -10 0 -16 16 0 10 -14 14 -10 0 -10 10",
+     "inner contours": [],
+     "class name": "Carr",
+     "instance name": "coral6",
+     "blob name": "c-6-929.9x-336.2y",
+     "id": 6,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      344,
+      901,
+      34,
+      41
+     ],
+     "centroid": [
+      919.4,
+      365.7
+     ],
+     "area": 695.0,
+     "perimeter": 101.5,
+     "contour": "9220 3824 -40 0 -10 -10 -10 0 -30 -30 -10 0 -20 -20 -10 0 -4 -4 0 -10 -20 -20 0 -10 -10 -10 0 -60 10 -10 0 -10 10 -10 0 -20 10 -10 0 -10 10 -10 0 -30 4 -4 10 0 50 -50 30 0 10 10 40 0 20 20 20 0 4 4 0 20 20 20 0 20 10 10 0 40 10 10 0 60 -10 10 0 30 -10 10 0 20 -34 34 -10 0 -10 10 -20 0 -10 10",
+     "inner contours": [],
+     "class name": "Carr",
+     "instance name": "coral7",
+     "blob name": "c-7-919.5x-365.8y",
+     "id": 7,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      342,
+      950,
+      37,
+      37
+     ],
+     "centroid": [
+      969.1,
+      360.6
+     ],
+     "area": 702.0,
+     "perimeter": 101.2,
+     "contour": "9700 3764 -40 0 -20 -20 -20 0 -10 -10 -10 0 -20 -20 -20 0 -4 -4 0 -10 -10 -10 0 -100 10 -10 0 -20 20 -20 0 -10 10 -10 0 -10 34 -34 30 0 10 -10 130 0 10 10 10 0 4 4 0 10 10 10 0 20 10 10 0 60 10 10 0 10 -10 10 0 10 -10 10 0 10 -30 30 0 10 -30 30 0 10 -4 4 -10 0 -20 20 -20 0 -10 10",
+     "inner contours": [],
+     "class name": "Carr",
+     "instance name": "coral8",
+     "blob name": "c-8-969.1x-360.7y",
+     "id": 8,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      368,
+      938,
+      34,
+      40
+     ],
+     "centroid": [
+      955.8,
+      390.0
+     ],
+     "area": 698.0,
+     "perimeter": 102.4,
+     "contour": "9590 4054 -100 0 -10 -10 -30 0 -14 -14 0 -10 -10 -10 0 -110 10 -10 0 -10 10 -10 0 -10 10 -10 0 -20 10 -10 0 -30 24 -24 10 0 20 -20 10 0 10 -10 20 0 10 -10 10 0 10 10 20 0 10 10 10 0 14 14 0 20 6 6 20 0 14 14 0 30 10 10 0 80 -10 10 0 10 -10 10 0 10 -10 10 0 10 -10 10 0 20 -24 24 -10 0 -10 10 -10 0 -10 10",
+     "inner contours": [],
+     "class name": "Carr",
+     "instance name": "coral9",
+     "blob name": "c-9-955.9x-390.1y",
+     "id": 9,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      375,
+      887,
+      36,
+      41
+     ],
+     "centroid": [
+      905.5,
+      396.5
+     ],
+     "area": 751.0,
+     "perimeter": 105.7,
+     "contour": "9050 4134 -30 0 -10 -10 -50 0 -24 -24 0 -10 -10 -10 0 -60 -10 -10 0 -20 10 -10 -10 -10 0 -20 10 -10 0 -20 10 -10 0 -10 10 -10 0 -10 10 -10 0 -10 44 -44 20 0 10 -10 10 0 10 -10 80 0 24 24 0 20 10 10 0 20 20 20 0 10 10 10 0 20 10 10 0 40 -10 10 0 10 -10 10 0 10 -10 10 0 10 -20 20 0 10 -34 34 -10 0 -10 10 -20 0 -10 10 -10 0 -10 10",
+     "inner contours": [],
+     "class name": "Carr",
+     "instance name": "coral10",
+     "blob name": "c-10-905.5x-396.6y",
+     "id": 10,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      410,
+      919,
+      39,
+      39
+     ],
+     "centroid": [
+      938.9,
+      430.6
+     ],
+     "area": 831.0,
+     "perimeter": 111.0,
+     "contour": "9420 4464 -140 0 -10 -10 -20 0 -14 -14 0 -140 10 -10 0 -10 10 -10 0 -10 10 -10 0 -10 10 -10 0 -10 10 -10 0 -10 10 -10 0 -10 4 -4 10 0 10 -10 10 0 10 -10 20 0 10 -10 120 0 10 10 10 0 10 10 10 0 4 4 0 80 10 10 0 40 10 10 0 10 -10 10 0 10 -30 30 0 10 -40 40 0 10 -14 14 -10 0 -10 10 -10 0 -10 10",
+     "inner contours": [],
+     "class name": "Carr",
+     "instance name": "coral11",
+     "blob name": "c-11-938.9x-430.7y",
+     "id": 11,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      411,
+      866,
+      34,
+      40
+     ],
+     "centroid": [
+      883.4,
+      431.7
+     ],
+     "area": 679.0,
+     "perimeter": 99.5,
+     "contour": "8800 4484 -40 0 -44 -44 0 -10 -10 -10 0 -130 10 -10 0 -10 10 -10 0 -20 54 -54 10 0 10 -10 10 0 10 -10 10 0 10 -10 60 0 10 10 10 0 34 34 0 30 10 10 0 50 10 10 0 30 -10 10 0 10 -30 30 0 10 -10 10 0 10 -10 10 0 10 -4 4 -10 0 -20 20 -20 0 -10 10 -10 0 -10 10 -20 0 -10 10",
+     "inner contours": [],
+     "class name": "Carr",
+     "instance name": "coral12",
+     "blob name": "c-12-883.4x-431.8y",
+     "id": 12,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      441,
+      885,
+      39,
+      45
+     ],
+     "centroid": [
+      905.6,
+      465.3
+     ],
+     "area": 988.0,
+     "perimeter": 121.2,
+     "contour": "9030 4834 -80 0 -10 -10 -10 0 -10 -10 -20 0 -4 -4 0 -180 10 -10 0 -10 10 -10 0 -10 20 -20 0 -10 20 -20 0 -10 34 -34 10 0 10 -10 20 0 10 -10 20 0 10 -10 30 0 10 -10 30 0 10 10 20 0 14 14 0 10 10 10 0 10 10 10 0 20 10 10 0 130 -10 10 0 20 -10 10 0 20 -10 10 0 10 -10 10 0 10 -14 14 -10 0 -20 20 -50 0 -10 10 -30 0 -10 10",
+     "inner contours": [],
+     "class name": "Carr",
+     "instance name": "coral13",
+     "blob name": "c-13-905.7x-465.3y",
+     "id": 13,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      439,
+      844,
+      38,
+      50
+     ],
+     "centroid": [
+      863.6,
+      465.7
+     ],
+     "area": 1030.0,
+     "perimeter": 126.3,
+     "contour": "8610 4864 -20 0 -10 -10 -50 0 -10 -10 -20 0 -14 -14 0 -170 10 -10 0 -20 10 -10 0 -10 10 -10 0 -20 10 -10 0 -30 10 -10 0 -10 10 -10 0 -10 14 -14 10 0 30 -30 20 0 10 -10 10 0 10 -10 20 0 10 10 20 0 10 10 10 0 10 10 10 0 24 24 0 20 10 10 0 30 10 10 0 80 10 10 0 20 -10 10 0 20 -10 10 0 10 -10 10 0 20 -10 10 0 20 -10 10 0 10 -24 24 -10 0 -10 10 -20 0 -10 10 -10 0 -10 10 -30 0 -10 10",
+     "inner contours": [],
+     "class name": "Carr",
+     "instance name": "coral14",
+     "blob name": "c-14-863.6x-465.8y",
+     "id": 14,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      262,
+      880,
+      46,
+      28
+     ],
+     "centroid": [
+      904.8,
+      278.0
+     ],
+     "area": 586.0,
+     "perimeter": 101.8,
+     "contour": "9080 2874 -220 0 -14 -14 0 -40 10 -10 0 -10 14 -14 10 0 20 -20 10 0 30 -30 10 0 40 -40 10 0 10 -10 20 0 20 -20 80 0 10 10 30 0 44 44 0 10 10 10 0 10 10 10 0 50 -4 4 -10 0 -10 10 -30 0 -10 10 -20 0 -10 10 -10 0 -10 10 -10 0 -10 10 -10 0 -10 10",
+     "inner contours": [],
+     "class name": "Carr",
+     "instance name": "coral15",
+     "blob name": "c-15-904.9x-278.0y",
+     "id": 15,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      244,
+      893,
+      47,
+      25
+     ],
+     "centroid": [
+      919.4,
+      257.6
+     ],
+     "area": 498.0,
+     "perimeter": 100.6,
+     "contour": "9240 2664 -30 0 -10 -10 -30 0 -10 -10 -80 0 -10 10 -10 0 -10 -10 -10 10 -20 0 -10 -10 -20 0 -4 -4 0 -10 -10 -10 10 -10 0 -10 14 -14 20 0 50 -50 30 0 10 -10 10 0 10 -10 10 0 30 -30 130 0 10 10 30 0 14 14 0 10 10 10 0 10 10 10 0 30 -10 10 0 10 -14 14 -10 0 -10 10 -10 0 -10 10 -10 0 -10 10 -20 0 -10 10 -10 0 -10 10",
+     "inner contours": [],
+     "class name": "Carr",
+     "instance name": "coral16",
+     "blob name": "c-16-919.5x-257.7y",
+     "id": 16,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      209,
+      917,
+      28,
+      36
+     ],
+     "centroid": [
+      931.8,
+      228.3
+     ],
+     "area": 514.0,
+     "perimeter": 86.5,
+     "contour": "9340 2424 -70 0 -10 -10 -20 0 -24 -24 0 -130 10 -10 0 -40 10 -10 0 -10 34 -34 10 0 10 -10 10 0 10 -10 70 0 24 24 0 20 10 10 0 90 10 10 0 40 -10 10 0 20 -10 10 0 10 -34 34 -20 0 -10 10",
+     "inner contours": [],
+     "class name": "Truck",
+     "instance name": "coral17",
+     "blob name": "c-17-931.8x-228.4y",
+     "id": 17,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      120,
+      962,
+      34,
+      23
+     ],
+     "centroid": [
+      980.0,
+      132.8
+     ],
+     "area": 334.0,
+     "perimeter": 72.5,
+     "contour": "9910 1404 -130 0 -10 -10 -10 0 -10 -10 -20 0 -10 -10 -10 0 -10 -10 -10 0 -14 -14 0 -10 -10 -10 0 -40 24 -24 10 0 10 -10 50 0 10 -10 50 0 10 10 10 0 10 10 20 0 34 34 0 10 30 30 0 40 -24 24",
+     "inner contours": [],
+     "class name": "Carr",
+     "instance name": "coral18",
+     "blob name": "c-18-980.1x-132.8y",
+     "id": 18,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      92,
+      943,
+      46,
+      23
+     ],
+     "centroid": [
+      966.5,
+      104.4
+     ],
+     "area": 434.0,
+     "perimeter": 94.7,
+     "contour": "9640 1124 -40 0 -10 -10 -40 0 -10 -10 -30 0 -10 -10 -10 0 -14 -14 0 -30 10 -10 0 -10 14 -14 30 0 10 -10 10 0 10 -10 10 0 10 -10 10 0 10 -10 50 0 10 -10 50 0 10 10 40 0 10 10 20 0 10 10 20 0 10 10 10 0 14 14 0 10 10 10 0 20 -24 24 -50 0 -10 10 -80 0 -10 10 -10 0 -10 10 -20 0 -10 10",
+     "inner contours": [],
+     "class name": "Carr",
+     "instance name": "coral19",
+     "blob name": "c-19-966.6x-104.5y",
+     "id": 19,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      113,
+      922,
+      40,
+      23
+     ],
+     "centroid": [
+      941.4,
+      126.1
+     ],
+     "area": 389.0,
+     "perimeter": 89.0,
+     "contour": "9520 1334 -30 0 -10 -10 -30 0 -10 -10 -20 20 -10 -10 -10 0 -10 -10 -10 0 -10 10 -20 0 -10 -10 -10 0 -10 10 -40 0 -14 -14 0 -60 10 -10 0 -30 24 -24 10 0 10 -10 50 0 10 10 50 0 10 10 20 0 10 10 10 0 10 10 10 0 20 20 30 0 44 44 0 30 -4 4 -10 0 -10 10 -40 0 -10 10",
+     "inner contours": [],
+     "class name": "Carr",
+     "instance name": "coral20",
+     "blob name": "c-20-941.4x-126.2y",
+     "id": 20,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      128,
+      927,
+      42,
+      21
+     ],
+     "centroid": [
+      949.4,
+      139.8
+     ],
+     "area": 308.0,
+     "perimeter": 86.2,
+     "contour": "9560 1464 -60 0 -10 -10 -20 0 -10 -10 -20 0 -10 -10 -10 0 -10 10 -20 -20 -10 0 -10 -10 -10 0 -10 -10 -20 0 -14 -14 0 -20 14 -14 30 0 10 -10 50 0 10 -10 30 0 10 -10 10 10 10 0 20 20 10 0 10 10 10 0 10 -10 60 0 4 4 0 10 6 6 30 0 4 4 0 10 10 10 0 10 -10 10 0 10 -4 4 -10 0 -10 10 -20 0 -10 10 -30 0 -10 10",
+     "inner contours": [],
+     "class name": "Carr",
+     "instance name": "coral21",
+     "blob name": "c-21-949.4x-139.8y",
+     "id": 21,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      755,
+      706,
+      62,
+      77
+     ],
+     "centroid": [
+      737.5,
+      795.1
+     ],
+     "area": 2626.0,
+     "perimeter": 208.4,
+     "contour": "7290 8294 -40 0 -10 -10 -70 0 -10 -10 -20 0 -10 -10 -20 0 -4 -4 0 -230 10 -10 0 -30 10 -10 0 -10 10 -10 0 -20 10 -10 0 -10 10 -10 0 -10 10 -10 0 -10 20 -20 0 -10 10 -10 0 -10 10 -10 0 -10 74 -74 10 0 10 -10 10 0 26 -26 0 -10 34 -34 10 0 10 -10 10 0 20 -20 10 0 10 -10 10 0 10 -10 10 0 10 -10 80 0 10 10 10 0 14 14 0 10 40 40 0 10 10 10 0 30 10 10 0 180 -50 50 0 10 -50 50 0 10 -20 20 0 10 -30 30 0 10 -20 20 0 30 -20 20 0 20 -10 10 0 20 -14 14 -10 0 -20 20 -10 0 -10 10 -10 0 -10 10 -20 0 -10 10 -40 0 -10 10",
+     "inner contours": [],
+     "class name": "Carr",
+     "instance name": "coral22",
+     "blob name": "c-22-737.6x-795.1y",
+     "id": 22,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      1246,
+      565,
+      71,
+      130
+     ],
+     "centroid": [
+      602.4,
+      1311.2
+     ],
+     "area": 6104.0,
+     "perimeter": 374.8,
+     "contour": "5870 13734 -150 0 -10 -10 -10 0 -4 -4 0 -160 4 -4 10 0 10 10 40 0 6 -6 0 -10 -10 -10 0 -10 14 -14 10 0 20 -20 10 0 6 -6 -10 -10 0 -10 -10 -10 0 -40 -6 -6 -20 0 -10 -10 -4 -4 0 -20 -16 -16 -6 6 0 10 -10 10 0 20 -14 14 -10 0 -4 -4 0 -90 10 -10 0 -30 4 -4 30 0 6 -6 -6 -6 -40 0 -4 -4 0 -120 0 -10 10 -10 0 -20 10 -10 0 -30 10 -10 0 -30 10 -10 0 -10 10 -10 0 -30 10 -10 0 -10 10 -10 0 -10 10 -10 0 -20 10 -10 0 -10 10 -10 0 -10 10 -10 0 -20 10 -10 0 -10 10 -10 0 -10 10 -10 0 -10 10 -10 0 -10 10 -10 0 -10 10 -10 0 -10 10 -10 0 -20 30 -30 0 -10 10 -10 0 -10 10 -10 0 -10 30 -30 0 -10 34 -34 20 0 10 -10 70 0 10 -10 230 0 4 4 0 660 -10 10 0 30 -10 10 0 10 -20 20 0 10 -10 10 0 20 -20 20 0 10 -10 10 0 10 -10 10 0 10 -20 20 0 10 -10 10 0 20 -10 10 0 30 -10 10 0 20 -10 10 0 30 -10 10 0 20 -10 10 0 20 -50 50 0 10 -24 24 -10 0 -20 20 -20 0 -10 10 -50 0 -10 10 -40 0 -10 10 -40 0 -10 10",
+     "inner contours": [],
+     "class name": "Carr",
+     "instance name": "coral23",
+     "blob name": "c-23-602.4x-1311.2y",
+     "id": 23,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      1341,
+      61,
+      158,
+      67
+     ],
+     "centroid": [
+      143.9,
+      1376.9
+     ],
+     "area": 7485.0,
+     "perimeter": 390.8,
+     "contour": "1870 14054 -50 0 -10 -10 -30 0 -10 -10 -40 0 -14 -14 20 -20 -6 -6 -20 0 -16 16 0 10 -4 4 -50 0 -10 10 -30 0 -10 10 -90 0 -10 -10 -60 0 -10 10 -100 0 -10 10 -390 0 -10 -10 -110 0 -10 -10 -10 10 -30 0 -10 -10 -20 0 -34 -34 0 -10 -10 -10 0 -30 -10 -10 0 -10 -10 -10 0 -80 10 -10 0 -20 10 -10 0 -10 20 -20 0 -10 44 -44 10 0 70 -70 10 0 30 -30 10 0 10 -10 10 0 20 -20 10 0 10 -10 10 0 10 -10 20 0 10 -10 50 0 10 -10 20 0 10 -10 20 0 20 20 10 -10 20 0 10 -10 10 10 30 0 10 -10 20 0 10 -10 10 0 10 -10 20 0 20 -20 20 0 10 -10 20 0 10 -10 20 0 10 -10 30 0 10 -10 530 0 10 10 30 0 10 10 30 0 10 10 20 0 10 10 30 0 24 24 0 20 10 10 0 40 10 10 0 30 10 10 0 20 -10 10 0 20 10 10 0 30 10 10 0 30 -30 30 0 30 -10 10 0 10 -70 70 0 10 -44 44 -10 0 -20 20 -20 0 -10 10 -10 0 -10 10 -10 0 -10 10 -10 0 -30 30",
+     "inner contours": [],
+     "class name": "Carr",
+     "instance name": "coral24",
+     "blob name": "c-24-144.0x-1377.0y",
+     "id": 24,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      1288,
+      117,
+      151,
+      63
+     ],
+     "centroid": [
+      199.3,
+      1320.1
+     ],
+     "area": 6303.0,
+     "perimeter": 356.2,
+     "contour": "2280 13484 -210 0 -10 -10 -10 0 -10 -10 -10 0 -10 -10 -40 0 -10 -10 -60 0 -10 -10 -30 0 -10 -10 -50 0 -10 -10 -230 0 -10 -10 -80 0 -10 -10 -40 0 -10 -10 -10 0 -10 10 -60 0 -10 -10 -40 0 -10 -10 -10 0 -24 -24 0 -10 -6 -6 -10 0 -4 -4 0 -10 -10 -10 0 -20 10 -10 0 -40 10 -10 0 -10 74 -74 10 0 50 -50 10 0 20 -20 10 0 10 -10 10 0 10 -10 10 0 20 -20 20 0 10 -10 20 0 10 -10 30 0 10 -10 30 0 10 -10 30 0 10 -10 10 0 10 -10 10 0 10 -10 10 0 10 -10 20 0 10 -10 10 0 10 -10 130 0 10 -10 530 0 10 10 10 0 10 10 20 0 30 30 10 0 10 10 10 0 14 14 0 10 16 16 20 0 10 10 10 0 14 14 0 30 10 10 0 30 20 20 0 10 -10 10 0 60 10 10 0 70 -4 4 -10 0 -6 6 0 10 -50 50 0 10 -14 14 -10 0 -10 10 -10 0 -10 10 -10 0 -10 10 -20 0 -10 10 -20 0 -10 10 -10 0 -10 10 -10 0 -10 10 -40 0 -10 10 -50 0 -10 -10 -20 20",
+     "inner contours": [],
+     "class name": "Carr",
+     "instance name": "coral25",
+     "blob name": "c-25-199.4x-1320.1y",
+     "id": 25,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      1230,
+      157,
+      140,
+      62
+     ],
+     "centroid": [
+      229.4,
+      1262.5
+     ],
+     "area": 6208.0,
+     "perimeter": 341.1,
+     "contour": "2500 12894 -540 0 -10 -10 -30 0 -10 -10 -40 0 -10 10 -10 -10 -30 0 -20 -20 -10 0 -10 -10 -10 0 -6 6 0 10 -4 4 -60 0 -10 -10 -20 0 -44 -44 0 -20 -10 -10 0 -120 10 -10 0 -10 10 -10 0 -10 10 -10 0 -10 100 -100 0 -10 4 -4 10 0 30 -30 10 0 10 -10 10 0 10 -10 10 0 10 -10 20 0 10 -10 20 0 10 -10 20 0 10 -10 10 0 10 -10 50 0 10 -10 40 0 10 -10 140 0 10 -10 80 0 10 -10 340 0 10 10 60 0 10 -10 20 0 10 10 50 0 10 10 20 0 20 20 20 0 34 34 0 10 20 20 0 30 10 10 -10 10 0 40 10 10 0 80 -10 10 0 10 -4 4 -10 0 -36 36 0 10 -4 4 -10 0 -6 6 0 10 -60 60 0 10 -20 20 0 10 -30 30 0 10 -4 4 -30 0 -10 10 -60 0 -10 10 -10 0 -10 -10 -40 0 -10 10 -60 0 -10 10",
+     "inner contours": [],
+     "class name": "Carr",
+     "instance name": "coral26",
+     "blob name": "c-26-229.4x-1262.5y",
+     "id": 26,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      1131,
+      232,
+      130,
+      51
+     ],
+     "centroid": [
+      296.6,
+      1158.9
+     ],
+     "area": 4388.0,
+     "perimeter": 308.5,
+     "contour": "3380 11794 -150 0 -10 -10 -10 0 -10 -10 -10 10 -10 0 -10 10 -90 0 -10 -10 -80 0 -10 10 -340 0 -10 -10 -40 0 -10 -10 -70 0 -14 -14 0 -10 -6 -6 -40 0 -10 -10 -10 0 -14 -14 0 -20 -6 -6 -10 0 -4 -4 0 -10 -10 -10 0 -20 -10 -10 0 -10 -10 -10 0 -20 10 -10 0 -10 10 -10 0 -10 84 -84 10 0 6 -6 0 -10 74 -74 10 0 10 -10 20 0 10 -10 10 0 10 -10 360 0 10 10 10 0 10 10 20 0 10 10 20 0 10 10 60 0 10 10 10 0 4 4 -4 4 -10 0 -6 6 16 16 10 0 16 -16 0 -10 4 -4 10 0 10 10 60 0 10 10 20 0 10 10 10 0 10 -10 90 0 20 20 50 0 14 14 0 10 30 30 -20 20 6 6 10 0 20 20 10 0 4 4 0 10 10 10 0 10 10 10 0 20 10 10 0 10 -10 10 0 10 -10 10 0 10 -20 20 0 10 -4 4 -10 0 -20 20 -10 0 -10 10 -20 0 -10 10 -10 0 -10 10 -10 0 -10 10 -10 0 -10 10 -10 0 -20 20",
+     "inner contours": [],
+     "class name": "Carr",
+     "instance name": "coral28",
+     "blob name": "c-28-296.7x-1159.0y",
+     "id": 28,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      1182,
+      183,
+      155,
+      57
+     ],
+     "centroid": [
+      261.7,
+      1210.7
+     ],
+     "area": 5918.0,
+     "perimeter": 375.6,
+     "contour": "3160 12364 -160 0 -10 -10 -50 0 -10 -10 -70 0 -10 -10 -50 0 -10 -10 -10 0 -10 -10 -30 0 -10 -10 -20 0 -10 -10 -10 0 -10 -10 -20 0 -10 -10 -20 0 -20 -20 -90 0 -10 10 -10 0 -10 10 -60 0 -10 10 -20 0 -10 10 -40 0 -10 10 -30 0 -10 10 -10 0 -10 10 -30 0 -10 10 -20 0 -10 10 -100 0 -10 -10 -100 0 -10 -10 -20 0 -10 -10 -30 0 -10 -10 -20 0 -24 -24 0 -50 10 -10 0 -120 10 -10 0 -10 10 -10 0 -10 74 -74 10 0 6 -6 0 -10 14 -14 10 0 20 -20 20 0 10 -10 20 0 10 -10 30 0 10 -10 30 0 10 -10 30 0 10 -10 30 0 10 -10 120 0 10 -10 10 0 10 10 20 0 10 10 40 0 10 -10 50 0 10 10 10 0 10 -10 120 0 10 -10 130 0 10 10 30 0 10 10 30 0 10 10 120 0 10 -10 120 0 10 10 20 0 10 10 10 0 20 20 10 0 24 24 0 10 10 10 0 10 10 10 0 20 10 10 0 20 10 10 0 20 -10 10 16 16 20 0 14 14 0 60 -10 10 0 10 -24 24 -20 0 -20 20 -10 0 -10 10 -20 0 -10 10 -10 0 -10 -10 -6 6 0 40 -10 10 0 30 -10 10 0 10 -4 4 -10 0 -10 10",
+     "inner contours": [],
+     "class name": "Carr",
+     "instance name": "noname",
+     "blob name": "c-27-261.8x-1210.8y",
+     "id": 27,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      1076,
+      247,
+      147,
+      59
+     ],
+     "centroid": [
+      326.5,
+      1108.1
+     ],
+     "area": 5696.0,
+     "perimeter": 345.0,
+     "contour": "3630 11324 -190 0 -10 -10 -20 0 -10 10 -290 0 -10 -10 -20 0 -10 -10 -40 0 -10 -10 -30 0 -10 -10 -40 0 -10 10 -50 0 -10 10 -30 0 -10 -10 -40 0 -10 -10 -20 0 -20 -20 -50 0 -10 -10 -40 0 -10 10 -40 0 -10 -10 -10 0 -24 -24 0 -10 -10 -10 0 -10 -10 -10 0 -10 -10 -10 0 -50 10 -10 0 -10 20 -20 0 -10 64 -64 10 0 30 -30 10 0 10 -10 30 0 10 -10 10 0 20 -20 60 0 10 -10 20 0 10 10 10 0 10 -10 50 0 10 10 20 0 10 -10 10 0 10 -10 10 0 10 -10 10 0 10 -10 10 0 10 -10 20 0 10 -10 20 0 10 -10 20 0 10 -10 10 0 10 -10 10 0 10 -10 20 0 10 -10 30 0 10 -10 50 0 10 -10 190 0 10 10 130 0 10 10 70 0 10 10 20 0 10 10 10 0 10 10 10 0 10 10 20 0 10 10 10 0 10 10 10 0 10 10 10 0 10 10 10 0 4 4 0 10 10 10 0 10 10 10 0 10 10 10 0 150 -10 10 0 10 -70 70 0 10 -34 34 -10 0 -20 20 -20 0 -10 10 -60 0 -30 30 -10 0 -10 10",
+     "inner contours": [],
+     "class name": "Carr",
+     "instance name": "coral29",
+     "blob name": "c-29-326.6x-1108.2y",
+     "id": 29,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      992,
+      329,
+      119,
+      57
+     ],
+     "centroid": [
+      392.1,
+      1022.7
+     ],
+     "area": 4203.0,
+     "perimeter": 281.8,
+     "contour": "3760 10464 -340 0 -10 -10 -10 0 -10 -10 -10 0 -24 -24 0 -10 -10 -10 0 -20 -10 -10 0 -40 10 -10 0 -20 10 -10 0 -10 30 -30 0 -10 10 -10 0 -10 4 -4 10 0 10 -10 10 0 40 -40 10 0 10 -10 20 0 10 -10 20 0 10 -10 10 0 10 -10 30 0 30 -30 10 0 10 -10 20 0 10 -10 60 0 36 -36 0 -10 24 -24 10 0 10 -10 20 0 10 -10 10 0 10 -10 30 0 10 -10 380 0 10 10 20 0 10 10 20 0 34 34 0 10 60 60 0 10 10 10 0 80 -10 10 0 20 -10 10 0 20 -10 10 0 10 -10 10 0 10 -24 24 -10 0 -40 40 -10 0 -20 20 -10 0 -20 20 -10 0 -10 10 -170 0 -10 10 -40 0 -10 10 -30 0 -10 10 -20 0 -10 10 -30 0 -10 10 -150 0 -10 10",
+     "inner contours": [],
+     "class name": "Carr",
+     "instance name": "coral30",
+     "blob name": "c-30-392.2x-1022.7y",
+     "id": 30,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      956,
+      365,
+      98,
+      42
+     ],
+     "centroid": [
+      416.7,
+      979.1
+     ],
+     "area": 2221.0,
+     "perimeter": 292.2,
+     "contour": "4540 9954 -260 0 -10 -10 -320 0 -10 0 -10 10 -50 0 -10 -10 -50 0 -4 -4 0 -10 14 -14 40 0 10 10 30 0 10 -10 20 0 10 10 10 0 10 -10 60 0 10 -10 10 0 6 -6 -16 -16 -50 0 -14 -14 0 -10 4 -4 10 0 10 -10 20 0 16 -16 -6 -6 -10 0 -10 -10 -40 0 -10 10 -10 0 -10 -10 -150 0 -10 10 -20 0 -10 10 -10 0 -20 20 -10 0 -4 -4 0 -20 -10 -10 0 -40 10 -10 0 -10 10 -10 0 -10 10 -10 0 -10 10 -10 0 -10 44 -44 10 0 10 -10 30 0 10 -10 30 0 10 -10 50 0 10 -10 120 0 10 -10 60 0 10 10 20 0 10 10 20 0 10 10 10 0 10 10 10 0 10 10 10 0 10 10 30 0 10 10 30 0 10 10 10 0 20 20 30 0 10 10 60 0 10 10 40 0 10 10 10 0 10 10 10 0 4 4 0 10 6 6 20 20 10 0 4 4 0 130 -14 14 -30 0 -20 20",
+     "inner contours": [],
+     "class name": "Carr",
+     "instance name": "coral31",
+     "blob name": "c-31-416.8x-979.1y",
+     "id": 31,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      926,
+      486,
+      182,
+      260
+     ],
+     "centroid": [
+      576.7,
+      1059.1
+     ],
+     "area": 24795.0,
+     "perimeter": 853.7,
+     "contour": "5600 11834 -350 0 -10 -10 -50 0 -10 -10 -40 0 -10 -10 -10 0 -10 -10 -20 0 -14 -14 0 -10 -30 -30 0 -10 -10 -10 0 -10 -10 -10 0 -10 -10 -10 0 -20 -10 -10 0 -10 -10 -10 0 -10 -10 -10 0 -20 -10 -10 0 -10 -10 -10 0 -20 -10 -10 0 -20 -10 -10 0 -10 -20 -20 0 -10 -10 -10 0 -40 -10 -10 0 -140 0 -10 10 -10 0 -20 10 -10 0 -10 30 -30 0 -20 10 -10 0 -10 10 -10 0 -10 30 -30 0 -10 20 -20 0 -10 10 -10 0 -30 10 -10 0 -10 10 -10 0 -10 10 -10 0 -10 10 -10 0 -10 10 -10 0 -20 20 -20 0 -10 10 -10 0 -10 10 -10 0 -10 10 -10 0 -20 10 -10 0 -10 10 -10 0 -20 10 -10 0 -10 10 -10 0 -20 10 -10 0 -10 10 -10 0 -20 10 -10 0 -20 10 -10 0 -10 10 -10 0 -10 10 -10 0 -30 10 -10 0 -40 10 -10 0 -10 10 -10 0 -60 20 -20 0 -10 20 -20 0 -10 10 -10 0 -80 14 -14 10 0 16 -16 0 -50 4 -4 30 0 6 -6 0 -30 30 -30 0 -40 10 -10 0 -10 4 -4 10 0 6 -6 10 -10 0 -20 24 -24 10 0 16 -16 0 -10 10 -10 0 -10 4 -4 20 0 20 20 6 -6 0 -40 20 -20 0 -10 10 -10 0 -10 10 -10 0 -10 20 -20 0 -10 10 -10 0 -10 20 -20 0 -10 20 -20 0 -10 10 -10 0 -10 10 -10 0 -20 10 -10 0 -10 10 -10 0 -10 30 -30 0 -10 10 -10 0 -10 20 -20 0 -10 30 -30 0 -10 20 -20 0 -10 10 -10 0 -20 10 -10 0 -10 10 -10 0 -10 10 -10 0 -10 44 -44 90 0 10 -10 140 0 10 -10 230 0 10 10 50 0 34 34 0 20 10 10 0 30 10 10 0 20 20 20 0 10 20 20 0 10 10 10 0 10 10 10 0 20 10 10 0 10 10 10 0 10 10 10 0 30 10 10 0 30 10 10 0 20 10 10 0 30 10 10 0 50 10 10 0 30 -10 10 0 40 -10 10 0 10 -10 10 0 10 -10 10 0 10 -10 10 0 10 -20 20 0 20 -10 10 0 10 -10 10 0 10 -10 10 0 10 -30 30 0 20 -10 10 0 20 -10 10 0 10 -10 10 0 10 -20 20 0 20 -10 10 0 40 -10 10 0 30 -40 40 0 10 -14 14 -14 -14 0 -10 -10 -10 0 -50 -10 -10 0 -20 -20 -20 0 -40 -10 -10 0 -10 -20 -20 0 -10 -10 -10 0 -20 -10 -10 0 -10 -10 -10 0 -20 -6 -6 -10 0 -16 16 0 10 -60 60 0 10 10 10 0 30 10 10 0 10 20 20 0 10 20 20 0 10 26 26 10 -10 10 0 20 -20 4 4 0 10 10 10 0 50 -14 14 -30 -30 -20 0 -6 6 0 10 -10 10 0 40 -10 10 0 20 26 26 16 -16 0 -10 10 -10 0 -20 24 -24 30 0 14 14 0 40 -20 20 0 10 -10 10 0 20 -10 10 0 40 -50 50 0 10 -10 10 0 10 -10 10 0 10 -10 10 0 50 -10 10 0 20 -10 10 0 20 -10 10 0 10 -10 10 0 30 -10 10 0 10 -10 10 0 10 -10 10 0 20 -10 10 0 10 -10 10 0 10 -10 10 0 10 -10 10 0 30 -10 10 0 20 -10 10 0 20 -10 10 0 30 -14 14 -10 0 -6 6 0 10 -10 10 0 30 -10 10 0 20 -20 20 0 10 -10 10 0 30 -10 10 0 20 -4 4 -10 -10 -10 0 -14 -14 0 -30 -6 -6 -16 16 0 100 10 10 0 30 -10 10 0 10 -10 10 0 10 -10 10 0 20 -10 10 0 20 -20 20 0 10 -30 30 0 20 -10 10 0 30 -10 10 0 20 -10 10 0 30 -10 10 0 10 -10 10 0 10 -30 30 0 10 -24 24 -20 0 -10 10 -30 0 -10 10 -40 0 -10 10 -40 0 -10 10",
+     "inner contours": [],
+     "class name": "Bus",
+     "instance name": "coral32",
+     "blob name": "c-32-576.7x-1059.1y",
+     "id": 32,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      902,
+      69,
+      68,
+      70
+     ],
+     "centroid": [
+      103.4,
+      937.5
+     ],
+     "area": 3070.0,
+     "perimeter": 220.0,
+     "contour": "1020 9694 -210 0 -10 -10 -40 0 -24 -24 0 -110 10 -10 0 -20 -10 -10 0 -10 0 -10 10 -10 0 -20 -10 -10 0 -10 10 -10 0 -40 10 -10 0 -20 10 -10 0 -10 10 -10 0 -30 10 -10 0 -10 10 -10 0 -30 10 -10 0 -10 20 -20 0 -10 74 -74 10 0 10 -10 30 0 10 -10 30 0 10 -10 20 0 10 -10 40 0 10 -10 230 0 24 24 0 10 10 10 -10 10 0 30 10 10 0 170 -10 10 0 20 -20 20 0 10 -10 10 0 10 -10 10 0 10 -34 34 -10 0 -16 16 0 10 -10 10 0 70 -10 10 0 10 -34 34 -10 0 -20 20 -20 0 -10 10 -10 0 -10 10 -10 0 -10 10 -20 0 -10 10 -20 0 -10 10",
+     "inner contours": [],
+     "class name": "Carr",
+     "instance name": "coral33",
+     "blob name": "c-33-103.4x-937.5y",
+     "id": 33,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      913,
+      -2,
+      66,
+      70
+     ],
+     "centroid": [
+      29.6,
+      949.2
+     ],
+     "area": 3047.0,
+     "perimeter": 214.9,
+     "contour": "240 9804 -120 0 -10 -10 -70 0 -10 -10 -10 0 -4 -4 0 -430 64 -64 10 0 10 -10 10 0 20 -20 10 0 10 -10 10 0 10 -10 40 0 10 -10 30 0 10 -10 20 0 10 -10 20 0 10 -10 30 0 10 -10 30 0 10 -10 50 0 10 10 30 0 10 10 20 0 10 10 20 0 14 14 0 30 10 10 0 20 10 10 0 10 10 10 0 30 10 10 0 30 -10 10 0 10 10 10 0 40 -10 10 0 30 -10 10 0 10 -10 10 0 30 -10 10 0 30 -10 10 0 20 -20 20 0 10 -10 10 0 10 -64 64 -10 0 -10 10 -30 0 -10 10 -20 0 -10 10 -10 0 -10 10 -10 0 -10 10 -20 0 -10 10 -50 0 -10 10",
+     "inner contours": [],
+     "class name": "Carr",
+     "instance name": "coral34",
+     "blob name": "c-34-29.7x-949.3y",
+     "id": 34,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      727,
+      1976,
+      154,
+      68
+     ],
+     "centroid": [
+      2049.5,
+      763.3
+     ],
+     "area": 7315.0,
+     "perimeter": 392.7,
+     "contour": "21080 7924 -620 0 -10 -10 -180 0 -20 -20 -10 0 -10 -10 -30 0 -10 -10 -10 0 -20 -20 -10 0 -10 10 -10 0 -10 10 -20 0 -10 -10 -10 10 -10 0 -10 10 -10 0 -10 10 -20 0 -14 -14 10 -10 -16 -16 -6 6 0 20 -4 4 -30 0 -4 -4 0 -40 -26 -26 -10 0 -10 10 -10 0 -10 10 -10 0 -14 -14 0 -10 -10 -10 0 -40 -20 -20 0 -10 -10 -10 0 -40 -10 -10 0 -20 -10 -10 10 -10 0 -10 10 -10 0 -20 10 -10 0 -20 10 -10 0 -50 -10 -10 0 -10 10 -10 0 -30 10 -10 0 -50 -10 -10 0 -20 24 -24 80 0 10 -10 280 0 10 10 110 0 10 10 70 0 10 -10 230 0 10 10 70 0 10 10 40 0 10 10 30 0 10 10 30 0 10 10 10 0 24 24 0 10 30 30 0 10 10 10 0 10 10 10 0 20 40 40 0 10 26 26 10 0 10 10 10 0 10 10 20 0 10 10 10 0 10 10 10 0 10 10 10 0 10 10 10 0 74 74 0 10 10 10 0 90 -10 10 0 10 -20 20 -4 4 -10 0 -10 10 -10 0 -10 10 -10 0 -10 10 -10 0 -10 -10 -20 0 -10 10 -10 0 -10 10 -10 0 -20 20",
+     "inner contours": [],
+     "class name": "Truck",
+     "instance name": "coral35",
+     "blob name": "c-35-2049.5x-763.3y",
+     "id": 35,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      691,
+      557,
+      135,
+      65
+     ],
+     "centroid": [
+      619.3,
+      719.5
+     ],
+     "area": 4408.0,
+     "perimeter": 353.6,
+     "contour": "5820 7534 -20 0 -24 -24 0 -10 -6 -6 -10 0 -4 -4 0 -10 -20 -20 0 -10 -40 -40 0 -10 -20 -20 0 -10 -20 -20 0 -10 -10 -10 0 -10 -10 -10 0 -10 -10 -10 0 -10 -10 -10 0 -90 10 -10 0 -20 10 -10 0 -10 20 -20 0 -20 20 -20 0 -50 14 -14 10 0 10 -10 10 0 10 -10 10 0 10 -10 10 0 10 -10 60 0 10 10 10 0 10 10 10 0 10 10 10 0 4 4 0 10 10 10 0 10 20 20 0 10 10 10 0 10 20 20 0 10 10 10 0 10 16 16 6 -6 0 -10 4 -4 10 0 20 -20 20 0 10 -10 20 0 10 -10 10 0 20 -20 10 0 10 -10 30 0 10 -10 40 0 10 -10 10 10 10 0 10 -10 10 0 6 -6 0 -10 14 -14 10 0 10 -10 30 0 10 -10 30 0 10 -10 40 0 10 -10 100 0 10 -10 70 0 10 10 50 0 10 10 90 0 10 10 60 0 24 24 0 10 10 10 0 30 10 10 0 20 10 10 0 60 -4 4 -20 0 -10 10 -50 0 -10 10 -40 0 -10 10 -10 0 -20 20 -10 -10 -6 6 0 20 -10 10 0 10 -10 10 0 10 -10 10 0 10 -4 4 -20 0 -10 10 -30 0 -10 10 -40 0 -10 10 -40 0 -10 10 -110 0 -10 10 -70 0 -10 10 -20 0 -10 10 -20 0 -10 10 -10 0 -20 20 -20 0 -10 10 -20 0 -10 10 -30 0 -10 10 -80 0 -10 10 -90 0 -10 10 -10 0 -6 6 10 10 -34 34 -10 0 -6 6 -10 10 0 10 -4 4 -20 0 -10 10",
+     "inner contours": [],
+     "class name": "Truck",
+     "instance name": "noname",
+     "blob name": "c-36-619.4x-719.5y",
+     "id": 36,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      768,
+      2651,
+      76,
+      59
+     ],
+     "centroid": [
+      2692.6,
+      798.4
+     ],
+     "area": 2665.0,
+     "perimeter": 210.6,
+     "contour": "27240 8244 -350 0 -10 -10 -20 0 -10 -10 -20 0 -10 -10 -10 0 -4 -4 0 -10 -10 -10 0 -20 10 -10 -20 -20 0 -30 -6 -6 -30 0 -20 -20 -10 0 -64 -64 0 -10 -10 -10 0 -10 -16 -16 -10 0 -20 -20 -10 0 -14 -14 0 -10 -10 -10 0 -10 -10 -10 0 -60 30 -30 0 -10 64 -64 10 0 10 -10 180 0 10 10 40 0 10 10 10 0 10 10 30 0 10 10 30 0 10 10 10 0 20 20 10 0 10 10 10 0 10 10 20 0 10 10 10 0 10 10 10 0 10 10 10 0 24 24 0 20 10 10 0 10 40 40 0 20 10 10 0 260 -4 4",
+     "inner contours": [],
+     "class name": "Carr",
+     "instance name": "coral37",
+     "blob name": "c-37-2692.7x-798.4y",
+     "id": 37,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      215,
+      2582,
+      28,
+      34
+     ],
+     "centroid": [
+      2596.3,
+      232.8
+     ],
+     "area": 416.0,
+     "perimeter": 81.6,
+     "contour": "25950 2464 -50 0 -34 -34 0 -100 10 -10 0 -30 10 -10 0 -10 20 -20 0 -20 24 -24 20 0 10 -10 30 0 10 10 10 0 10 10 20 0 14 14 0 20 10 10 0 70 10 10 -10 10 0 10 -10 10 0 10 -44 44 -10 0 -10 -10 -10 0 -6 6 0 10 -20 20 0 10 -4 4",
+     "inner contours": [],
+     "class name": "Carr",
+     "instance name": "noname",
+     "blob name": "c-38-2596.3x-232.8y",
+     "id": 38,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      108,
+      1573,
+      47,
+      24
+     ],
+     "centroid": [
+      1597.2,
+      122.0
+     ],
+     "area": 481.0,
+     "perimeter": 98.7,
+     "contour": "16160 1294 -210 0 -10 -10 -30 0 -10 -10 -30 0 -10 -10 -20 0 -10 -10 -40 0 -14 -14 0 -40 10 -10 0 -10 4 -4 10 0 10 -10 10 0 10 -10 30 0 10 -10 20 0 10 -10 40 0 10 -10 30 0 10 10 20 0 10 10 10 0 10 10 10 0 20 20 10 0 30 30 20 0 10 10 10 0 14 14 0 10 10 10 0 30 -14 14",
+     "inner contours": [],
+     "class name": "Carr",
+     "instance name": "coral39",
+     "blob name": "c-39-1597.2x-122.0y",
+     "id": 39,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      163,
+      1617,
+      47,
+      25
+     ],
+     "centroid": [
+      1641.8,
+      177.2
+     ],
+     "area": 486.0,
+     "perimeter": 103.2,
+     "contour": "16590 1854 -60 0 -10 -10 -60 0 -10 10 -40 0 -10 -10 -20 0 -10 -10 -20 0 -10 -10 -30 0 -10 -10 -20 0 -4 -4 0 -10 -16 -16 -20 0 -24 -24 0 -20 10 -10 0 -10 24 -24 30 0 10 10 40 0 10 -10 20 0 10 -10 40 0 10 -10 30 0 14 14 0 10 10 10 0 10 6 6 10 0 10 10 10 0 10 10 20 0 10 -10 10 0 10 10 10 0 34 34 0 50 -24 24",
+     "inner contours": [],
+     "class name": "Carr",
+     "instance name": "coral40",
+     "blob name": "c-40-1641.9x-177.2y",
+     "id": 40,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      71,
+      1767,
+      49,
+      31
+     ],
+     "centroid": [
+      1791.4,
+      87.4
+     ],
+     "area": 764.0,
+     "perimeter": 118.6,
+     "contour": "18000 994 -60 0 -10 -10 -40 0 -10 -10 -50 0 -10 -10 -10 0 -30 -30 -20 0 -10 -10 -10 0 -24 -24 0 -50 10 -10 0 -20 10 -10 0 -40 4 -4 20 0 10 -10 160 0 10 10 40 0 10 10 30 0 10 10 10 0 24 24 0 10 10 10 0 20 -20 20 6 6 20 0 10 10 10 0 4 4 0 10 20 20 0 10 10 10 0 20 -14 14 -10 0 -10 10 -10 -10 -20 0 -10 10 -50 0 -10 10",
+     "inner contours": [],
+     "class name": "Truck",
+     "instance name": "coral41",
+     "blob name": "c-41-1791.4x-87.4y",
+     "id": 41,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      105,
+      1884,
+      44,
+      20
+     ],
+     "centroid": [
+      1908.4,
+      116.4
+     ],
+     "area": 353.0,
+     "perimeter": 86.5,
+     "contour": "19220 1224 -160 0 -10 -10 -50 0 -10 -10 -30 0 -10 -10 -30 0 -10 -10 -10 0 -10 -10 -4 -4 0 -10 24 -24 10 0 10 -10 60 0 10 -10 20 0 10 -10 60 0 10 -10 50 0 10 10 30 0 10 10 10 0 24 24 0 10 10 10 0 20 10 10 -34 34",
+     "inner contours": [],
+     "class name": "Carr",
+     "instance name": "coral42",
+     "blob name": "c-42-1908.4x-116.4y",
+     "id": 42,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      92,
+      1805,
+      41,
+      21
+     ],
+     "centroid": [
+      1827.7,
+      103.6
+     ],
+     "area": 346.0,
+     "perimeter": 84.7,
+     "contour": "18350 1104 -20 0 -10 -10 -10 0 -10 10 -10 -10 -50 0 -10 -10 -70 0 -10 -10 -40 0 -14 -14 0 -20 34 -34 10 0 10 -10 40 0 20 -20 40 0 10 -10 10 10 10 0 10 -10 30 0 10 10 40 0 10 10 30 0 4 4 0 10 10 10 0 10 10 10 0 30 -34 34 -40 0 -10 10",
+     "inner contours": [],
+     "class name": "Carr",
+     "instance name": "coral43",
+     "blob name": "c-43-1827.7x-103.6y",
+     "id": 43,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      72,
+      1809,
+      41,
+      20
+     ],
+     "centroid": [
+      1832.1,
+      82.7
+     ],
+     "area": 318.0,
+     "perimeter": 81.7,
+     "contour": "18360 894 -20 0 -10 -10 -50 0 -10 -10 -60 0 -10 -10 -30 0 -10 -10 -10 0 -14 -14 10 -10 0 -10 4 -4 10 0 10 -10 20 0 10 -10 10 0 10 -10 20 0 10 -10 30 0 10 -10 80 0 10 10 70 0 24 24 0 50 -24 24 -40 0 -10 10 -30 0 -10 10",
+     "inner contours": [],
+     "class name": "Carr",
+     "instance name": "coral44",
+     "blob name": "c-44-1832.2x-82.8y",
+     "id": 44,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      200,
+      1743,
+      49,
+      27
+     ],
+     "centroid": [
+      1768.2,
+      215.0
+     ],
+     "area": 615.0,
+     "perimeter": 105.8,
+     "contour": "17870 2244 -120 0 -10 -10 -110 0 -10 -10 -20 0 -10 -10 -20 0 -10 -10 -20 0 -10 -10 -20 0 -10 -10 -10 0 -14 -14 0 -40 10 -10 0 -10 14 -14 10 0 30 -30 10 0 10 -10 10 0 10 -10 120 0 10 10 20 0 10 10 10 0 20 20 10 0 20 20 10 0 30 30 10 0 10 10 10 0 24 24 0 40 -10 10 0 10 -14 14",
+     "inner contours": [],
+     "class name": "Carr",
+     "instance name": "coral45",
+     "blob name": "c-45-1768.3x-215.0y",
+     "id": 45,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      193,
+      1692,
+      50,
+      23
+     ],
+     "centroid": [
+      1717.5,
+      206.1
+     ],
+     "area": 520.0,
+     "perimeter": 104.2,
+     "contour": "17360 2134 -230 0 -10 -10 -30 0 -10 -10 -20 0 -10 -10 -60 0 -4 -4 10 -10 -30 -30 0 -20 10 -10 0 -10 24 -24 40 0 10 -10 40 0 10 -10 100 0 10 10 20 0 10 10 10 0 10 10 10 0 10 10 10 0 20 20 40 0 34 34 0 10 10 10 0 20 -14 14 -10 0 -10 10",
+     "inner contours": [],
+     "class name": "Carr",
+     "instance name": "coral46",
+     "blob name": "c-46-1717.5x-206.1y",
+     "id": 46,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      238,
+      1761,
+      35,
+      27
+     ],
+     "centroid": [
+      1778.8,
+      252.4
+     ],
+     "area": 432.0,
+     "perimeter": 80.2,
+     "contour": "17790 2624 -60 0 -10 -10 -30 0 -34 -34 0 -70 10 -10 0 -10 54 -54 40 0 10 -10 60 0 10 10 20 0 10 10 20 0 34 34 0 10 10 10 0 40 -24 24 -10 0 -10 10 -10 0 -10 10 -10 0 -6 6 0 10 -4 4 -20 0 -10 10 -20 0 -10 10",
+     "inner contours": [],
+     "class name": "Carr",
+     "instance name": "coral47",
+     "blob name": "c-47-1778.8x-252.4y",
+     "id": 47,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      244,
+      1802,
+      36,
+      26
+     ],
+     "centroid": [
+      1819.6,
+      256.8
+     ],
+     "area": 409.0,
+     "perimeter": 85.3,
+     "contour": "18140 2674 -50 0 -4 -4 0 -10 -10 -10 0 -20 -10 -10 0 -90 34 -34 40 0 10 -10 20 0 10 10 10 -10 20 0 10 10 20 0 10 -10 40 0 10 10 10 0 10 10 10 0 24 24 0 50 -10 10 0 10 -4 4 -40 0 -10 10 -10 0 -10 10 -50 0 -20 20 -20 0 -10 10 -10 0 -20 20",
+     "inner contours": [],
+     "class name": "Carr",
+     "instance name": "coral48",
+     "blob name": "c-48-1819.6x-256.8y",
+     "id": 48,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      206,
+      1886,
+      43,
+      28
+     ],
+     "centroid": [
+      1909.8,
+      219.9
+     ],
+     "area": 295.0,
+     "perimeter": 92.9,
+     "contour": "19240 2314 -40 0 -24 -24 0 -10 -10 -10 0 -10 -6 -6 -10 0 -10 -10 -20 0 -10 -10 -20 0 -10 -10 -30 0 -10 -10 -20 0 -10 -10 -10 0 -10 -10 -10 0 -60 -60 -10 0 -4 -4 0 -10 14 -14 70 0 10 10 30 0 10 10 10 0 10 10 10 0 10 10 10 0 10 10 10 0 10 10 20 0 10 10 20 0 30 30 10 0 10 10 10 0 24 24 0 10 10 10 0 30 -24 24",
+     "inner contours": [],
+     "class name": "Carr",
+     "instance name": "noname",
+     "blob name": "c-49-1909.8x-220.0y",
+     "id": 49,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      204,
+      1897,
+      44,
+      28
+     ],
+     "centroid": [
+      1924.7,
+      217.8
+     ],
+     "area": 337.0,
+     "perimeter": 97.5,
+     "contour": "19340 2294 -50 0 -10 -10 -20 0 -4 -4 0 -40 -16 -16 -10 0 -10 -10 -10 0 -80 -80 -10 0 -10 -10 -10 0 -10 -10 -20 0 -20 -20 -10 10 -10 0 -14 -14 4 -4 200 0 30 30 10 0 10 10 10 0 20 20 20 0 10 10 20 0 24 24 0 20 10 10 0 40 -44 44",
+     "inner contours": [],
+     "class name": "Carr",
+     "instance name": "noname",
+     "blob name": "c-50-1924.8x-217.8y",
+     "id": 50,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      183,
+      1913,
+      46,
+      31
+     ],
+     "centroid": [
+      1940.7,
+      197.3
+     ],
+     "area": 401.0,
+     "perimeter": 106.9,
+     "contour": "19500 2114 -30 0 -14 -14 0 -10 -10 -10 0 -20 -10 -10 0 -10 -6 -6 -10 0 -10 -10 -4 -4 0 -10 -26 -26 -10 0 -10 -10 -20 0 -10 -10 -20 0 -10 -10 -30 0 -10 -10 -40 0 -10 -10 -30 0 -4 -4 0 -10 24 -24 30 0 10 -10 80 0 10 -10 60 0 10 10 30 0 30 30 10 0 14 14 0 10 16 16 10 0 14 14 0 10 16 16 10 0 4 4 0 10 -10 10 0 10 20 20 0 30 -14 14 -20 0 -10 10 -10 0 -10 10",
+     "inner contours": [],
+     "class name": "Carr",
+     "instance name": "coral51",
+     "blob name": "c-51-1940.8x-197.3y",
+     "id": 51,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      157,
+      1964,
+      50,
+      27
+     ],
+     "centroid": [
+      1991.8,
+      171.0
+     ],
+     "area": 567.0,
+     "perimeter": 108.6,
+     "contour": "19950 1814 -30 0 -10 -10 -10 0 -10 -10 -10 0 -10 -10 -10 0 -10 -10 -10 0 -20 -20 -10 0 -10 -10 -10 0 -10 -10 -10 0 -10 -10 -30 0 -10 -10 -20 0 -14 -14 0 -20 34 -34 20 0 10 -10 60 0 10 -10 70 0 10 -10 30 0 10 10 20 0 10 10 10 0 20 20 60 0 10 10 10 0 4 4 0 10 30 30 0 70 -4 4 -10 0 -10 10 -60 0 -10 10 -10 -10 -30 0 -10 10 -10 0 -10 10",
+     "inner contours": [],
+     "class name": "Carr",
+     "instance name": "coral52",
+     "blob name": "c-52-1991.8x-171.1y",
+     "id": 52,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      125,
+      2028,
+      44,
+      22
+     ],
+     "centroid": [
+      2051.0,
+      137.2
+     ],
+     "area": 332.0,
+     "perimeter": 87.6,
+     "contour": "20540 1444 -10 -10 -50 0 -10 -10 -20 0 -20 -20 -10 0 -10 -10 -10 0 -10 -10 -20 0 -10 -10 -10 0 -10 -10 -10 0 -4 -4 0 -10 24 -24 20 0 10 -10 10 0 10 -10 60 0 10 -10 40 0 10 10 10 0 10 10 10 0 10 10 10 0 40 40 40 0 10 10 10 0 24 24 0 20 -14 14 -130 0 -10 10",
+     "inner contours": [],
+     "class name": "Carr",
+     "instance name": "coral53",
+     "blob name": "c-53-2051.0x-137.2y",
+     "id": 53,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      97,
+      2018,
+      47,
+      20
+     ],
+     "centroid": [
+      2043.7,
+      108.1
+     ],
+     "area": 378.0,
+     "perimeter": 93.7,
+     "contour": "20590 1144 -70 0 -10 -10 -120 0 -10 -10 -40 0 -10 -10 -50 0 -10 -10 -30 0 -14 -14 0 -20 24 -24 20 0 10 -10 50 0 10 -10 60 0 10 -10 40 0 10 10 70 0 10 10 20 0 10 10 10 0 10 10 10 0 24 24 0 40 -14 14 -10 0 -10 10",
+     "inner contours": [],
+     "class name": "Carr",
+     "instance name": "coral54",
+     "blob name": "c-54-2043.8x-108.1y",
+     "id": 54,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      69,
+      2017,
+      37,
+      20
+     ],
+     "centroid": [
+      2037.7,
+      80.1
+     ],
+     "area": 204.0,
+     "perimeter": 75.1,
+     "contour": "20360 864 -10 -10 -20 0 -4 -4 0 -10 -16 -16 -10 0 -24 -24 0 -20 -16 -16 -40 0 -4 -4 14 -14 10 10 40 0 10 -10 30 0 10 -10 30 0 20 20 30 0 4 4 0 20 6 6 50 0 10 10 20 0 4 4 0 10 10 10 0 10 -14 14 -20 0 -10 10 -100 0 -10 10",
+     "inner contours": [],
+     "class name": "Carr",
+     "instance name": "coral55",
+     "blob name": "c-55-2037.8x-80.2y",
+     "id": 55,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      77,
+      2050,
+      42,
+      20
+     ],
+     "centroid": [
+      2073.8,
+      88.0
+     ],
+     "area": 244.0,
+     "perimeter": 82.5,
+     "contour": "20890 944 -50 0 -10 -10 -10 0 -10 -10 -80 0 -10 -10 -40 0 -10 -10 -40 0 -10 -10 -10 0 -10 -10 -30 0 -10 -10 -10 0 -4 -4 14 -14 30 0 10 -10 30 0 10 -10 20 0 10 -10 10 0 10 -10 40 0 20 20 10 0 10 10 20 0 10 10 30 0 10 10 20 0 24 24 0 10 10 10 0 30 -4 4",
+     "inner contours": [],
+     "class name": "Carr",
+     "instance name": "coral56",
+     "blob name": "c-56-2073.8x-88.1y",
+     "id": 56,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      138,
+      1869,
+      54,
+      26
+     ],
+     "centroid": [
+      1899.0,
+      150.7
+     ],
+     "area": 525.0,
+     "perimeter": 113.2,
+     "contour": "19180 1614 -10 0 -10 -10 -20 0 -10 -10 -160 0 -20 -20 -10 0 -50 -50 -20 0 -20 -20 -30 0 -20 -20 -30 0 -10 -10 -10 0 -14 -14 0 -10 10 -10 0 -10 4 -4 240 0 10 10 60 0 10 10 20 0 54 54 0 10 6 6 10 0 44 44 0 40 -4 4 -10 0 -10 10",
+     "inner contours": [],
+     "class name": "Truck",
+     "instance name": "coral57",
+     "blob name": "c-57-1899.0x-150.7y",
+     "id": 57,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      106,
+      1759,
+      46,
+      25
+     ],
+     "centroid": [
+      1783.6,
+      119.0
+     ],
+     "area": 472.0,
+     "perimeter": 97.2,
+     "contour": "17930 1284 -10 0 -10 -10 -20 0 -10 10 -10 0 -10 -10 -30 0 -10 -10 -10 0 -10 -10 -10 0 -10 -10 -10 0 -10 -10 -10 0 -20 -20 -30 0 -10 -10 -20 0 -10 -10 -10 0 -14 -14 0 -30 14 -14 10 0 10 -10 10 0 10 -10 10 0 10 -10 130 0 10 10 20 0 10 10 30 0 20 20 10 0 10 10 10 0 10 10 10 0 34 34 0 20 10 10 0 10 -10 10 0 10 -14 14 -60 0 -10 10",
+     "inner contours": [],
+     "class name": "Carr",
+     "instance name": "coral58",
+     "blob name": "c-58-1783.7x-119.1y",
+     "id": 58,
+     "note": "",
+     "data": {}
+    },
+    {
+     "bbox": [
+      225,
+      1911,
+      59,
+      33
+     ],
+     "centroid": [
+      1940.5,
+      242.7
+     ],
+     "area": 947.0,
+     "perimeter": 136.9,
+     "contour": "19590 2554 -30 0 -30 -30 -310 0 -10 -10 -10 0 -34 -34 0 -10 -10 -10 0 -60 10 -10 0 -10 10 -10 0 -10 14 -14 30 0 10 -10 30 0 10 -10 20 0 10 -10 20 0 10 -10 30 0 10 -10 50 0 10 10 20 0 10 10 20 0 10 10 10 0 20 20 10 0 10 10 20 0 20 20 10 0 10 10 30 0 20 20 10 0 4 4 0 10 10 10 0 50 -14 14 -10 0 -10 10 -20 0 -10 -10 -6 6 0 40 -14 14",
+     "inner contours": [],
+     "class name": "Carr",
+     "instance name": "noname",
+     "blob name": "c-59-1940.5x-242.8y",
+     "id": 59,
+     "note": "",
+     "data": {}
+    }
+   ],
+   "layers": [],
+   "channels": [
+    {
+     "filename": "../../CYENS/iMAGE DATA SET - PLATEIA 02 06 2022 - B002 FL01 FL02 A054 A069 FL01 FL02/DCIM/100MEDIA/DJI_0001.JPG",
+     "type": "RGB"
+    }
+   ],
+   "id": "100_0001_pic1",
+   "name": "100_0001_pic1",
+   "workspace": [],
+   "export_dataset_area": [
+    0,
+    0,
+    2736,
+    1824
+   ],
+   "acquisition_date": "2022-06-02",
+   "georef_filename": "",
+   "metadata": {},
+   "grid": null
+  }
+ ],
+ "correspondences": {},
+ "genet": {},
+ "region_attributes": {
+  "name": "",
+  "description": "",
+  "data": []
+ },
+ "spatial_reference_system": null,
+ "metadata": {},
+ "image_metadata_template": {}
+}
