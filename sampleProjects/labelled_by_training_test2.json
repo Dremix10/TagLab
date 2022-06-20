@@ -977,7 +977,7 @@
    "layers": [],
    "channels": [
     {
-     "filename": "pictures_used/200pics_1/DJI_0005.JPG",
+     "filename": "pictures_used/random sample/DJI_0005.JPG",
      "type": "RGB"
     }
    ],
@@ -990,6 +990,33 @@
     5472,
     3648
    ],
+   "acquisition_date": "2000-01-01",
+   "georef_filename": "",
+   "metadata": {},
+   "grid": null
+  },
+  {
+   "rect": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "map_px_to_mm_factor": "3",
+   "width": 5472,
+   "height": 3648,
+   "annotations": [],
+   "layers": [],
+   "channels": [
+    {
+     "filename": "pictures_used/random sample/DJI_0018.JPG",
+     "type": "RGB"
+    }
+   ],
+   "id": "100_0018_pic1",
+   "name": "100_0018_pic1",
+   "workspace": [],
+   "export_dataset_area": [],
    "acquisition_date": "2000-01-01",
    "georef_filename": "",
    "metadata": {},
