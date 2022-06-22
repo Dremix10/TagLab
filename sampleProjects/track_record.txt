@@ -1,0 +1,36 @@
+-> used hand-labelled initial pic1 to train model1 (test_ds_1)
+-> used model1 to label OVER pic1
+-> labels were big and all over the place resulting to an overall fail
+
+-> used hand-labelled initial pic1 to train model2 (test_ds_2_vertical)
+-> used model2 to label empty pic2
+-> tree labelling failled but car labelling was very good
+-> refined and cleaned labelling, leaving only cars (grouped cars labelled as 1)
+
+-> used refined labelled pic2 to train model3 (hd_ds_1_vertical)
+-> used model3 to label empty pic3
+-> car labelling was not that good with a lot of inaccuracies
+
+-> refined and labelled all cars of pic1 (some in groups)
+-> used refined hand-labelled pic1 to train model4 (test_ds_3_vertical)
+-> 
+
+
+
+Picture Reference:
+pic1 = 100_0001 - half resolution
+pic2 = 100_0005 - full resolution
+pic3 = 100_0018 - full resolution
+
+
+
+Model Reference:
+model1 (test_model_1) = 10 epoch/4 batch with all labels - took 5 minutes
+			(bus, truck, car, person, tree, high tree)
+model2 (test_model_2) = 50 epoch/4 batch with 2 labels - took 30 minutes
+			(car, tree)
+model3 (hd_model_1)   = 25 epoch/4 batch with 1 label - took 1 hour
+			(car)
+model4 (test_model_3) = 80 epoch/8 batch with 1 label - took X hour and X minutes
+			(car)
+
