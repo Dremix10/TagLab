@@ -13,6 +13,9 @@
 
 -> refined and labelled all cars of pic1 (some in groups)
 -> used refined hand-labelled pic1 to train model4 (test_ds_3_vertical)
+-> used model4 to label empty pic4
+->
+-> used model2 to label empty pic4
 -> 
 
 
@@ -21,6 +24,7 @@ Picture Reference:
 pic1 = 100_0001 - half resolution
 pic2 = 100_0005 - full resolution
 pic3 = 100_0018 - full resolution
+pic4 = 100_0005 - half resolution
 
 
 
@@ -31,6 +35,6 @@ model2 (test_model_2) = 50 epoch/4 batch with 2 labels - took 30 minutes
 			(car, tree)
 model3 (hd_model_1)   = 25 epoch/4 batch with 1 label - took 1 hour
 			(car)
-model4 (test_model_3) = 80 epoch/8 batch with 1 label - took X hour and X minutes
+model4 (test_model_3) = 80 epoch/5 batch with 1 label - took 1 hour
 			(car)
 
