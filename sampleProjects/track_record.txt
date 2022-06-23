@@ -24,6 +24,21 @@ Model4:
 
 Model5:
 -> refined pic4 model2 labelling and used that to train model5 (test_ds_4_vertical)
+-> used models 2,4,5 to label empty pic1 (separately)
+-> model 2 is better by far, only flaw is that it has trees aswell which messes it up
+-> it seems that grouped cars worsen the model as model2 was trained on single cars only
+-> used model 2 to label empty pic5
+-> we can clearly see that labelling of single cars is very good with that model
+
+Plan:
+-> fix hand_labelled_pic1 to include no groups and train new model on that but with
+more epochs/batch to replicate a better model2
+-> use that to label many images and then create a large ds to train a new model
+that will also include grouped cars but with alot more input data to see how that performs
+
+Model6:
+-> added (almost) all cars of pic1 hand-labelled without groups
+-> used that to train model6 (beta_ds_1_v), v stands for vertical split
 -> 
 
 
@@ -32,6 +47,7 @@ pic1 = 100_0001 - half resolution
 pic2 = 100_0005 - full resolution
 pic3 = 100_0018 - full resolution
 pic4 = 100_0005 - half resolution
+pic5 = 100_0018 - half resolution
 
 
 
@@ -44,5 +60,7 @@ model3 (hd_model_1)   = 25 epoch/4 batch with 1 label - took 1 hour
 			(car)
 model4 (test_model_3) = 80 epoch/5 batch with 1 label - took 1 hour
 			(car) - there were car groups
-model5 (test_model_4) = 80 epoch/5 batch with 1 label - took
+model5 (test_model_4) = 80 epoch/5 batch with 1 label - took 1 hour
 			(car) - there were car groups
+model6 (beta_model_1) = 80 epoch/5 batch with 1 label - took 
+			(car)
