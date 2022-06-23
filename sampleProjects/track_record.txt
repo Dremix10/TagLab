@@ -39,7 +39,12 @@ that will also include grouped cars but with alot more input data to see how tha
 Model6:
 -> added (almost) all cars of pic1 hand-labelled without groups
 -> used that to train model6 (beta_ds_1_v), v stands for vertical split
--> 
+-> used model 6 to label empty pics 1, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13
+-> results at a glance look very promising, more detailed comparison/evaluation to be done
+-> comparing pic 1, 4, 5 with models 2 and 6 we can see very similar results
+-> both have slight inaccuracies, but are generally a very good starting point
+-> refining/fixing to be done to all pictures labelled with model 6
+
 
 
 Picture Reference:
@@ -48,6 +53,14 @@ pic2 = 100_0005 - full resolution
 pic3 = 100_0018 - full resolution
 pic4 = 100_0005 - half resolution
 pic5 = 100_0018 - half resolution
+pic6 = 100_0022 - half resolution
+pic7 = 100_0027 - half resolution
+pic8 = 100_0037 - half resolution
+pic9 = 100_0070 - half resolution
+pic10 = 100_0078 - half resolution
+pic11 = 100_0093 - half resolution
+pic12 = 100_0114 - half resolution
+pic13 = 100_0123 - half resolution
 
 
 
@@ -62,5 +75,5 @@ model4 (test_model_3) = 80 epoch/5 batch with 1 label - took 1 hour
 			(car) - there were car groups
 model5 (test_model_4) = 80 epoch/5 batch with 1 label - took 1 hour
 			(car) - there were car groups
-model6 (beta_model_1) = 80 epoch/5 batch with 1 label - took 
+model6 (beta_model_1) = 100 epoch/5 batch with 1 label - took 1 hour
 			(car)
