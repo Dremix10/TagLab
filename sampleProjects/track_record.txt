@@ -45,7 +45,10 @@ Model6:
 -> both have slight inaccuracies, but are generally a very good starting point
 -> refining/fixing to be done to all pictures labelled with model 6
 
--> refined pic 1, 5, 6, 7, 8, 9
+-> refined pic 1, 5, 6, 7, 8, 9 and included groups in them
+-> used those pics to train model7 (big_ds_1)
+-> used model 7 to label empty pic 10
+-> results look very disappointing
 
 
 
@@ -79,3 +82,5 @@ model5 (test_model_4) = 80 epoch/5 batch with 1 label - took 1 hour
 			(car) - there were car groups
 model6 (beta_model_1) = 100 epoch/5 batch with 1 label - took 1 hour
 			(car)
+model7 (beta_model_2) = 80 epoch/5 batch with 1 label - took 5 hours
+			(car) - there were car groups
