@@ -45,6 +45,8 @@ Model6:
 -> both have slight inaccuracies, but are generally a very good starting point
 -> refining/fixing to be done to all pictures labelled with model 6
 
+-> refined pic 1, 5, 6, 7, 8, 9
+
 
 
 Picture Reference:
