@@ -45,10 +45,17 @@ Model6:
 -> both have slight inaccuracies, but are generally a very good starting point
 -> refining/fixing to be done to all pictures labelled with model 6
 
+Model7:
 -> refined pic 1, 5, 6, 7, 8, 9 and included groups in them
 -> used those pics to train model7 (big_ds_1)
--> used model 7 to label empty pic 10
+-> used model 7 to label empty pic 1, 10
 -> results look very disappointing
+-> seeing how messed up the labelling is I believe that no-car-groups is the way to go
+
+Model8:
+-> fixed pic 1, 5, 7, 8, 9 to split all car-groups into single cars
+-> used those pics to train model8 (big_ds_2)
+-> 
 
 
 
@@ -84,3 +91,5 @@ model6 (beta_model_1) = 100 epoch/5 batch with 1 label - took 1 hour
 			(car)
 model7 (beta_model_2) = 80 epoch/5 batch with 1 label - took 5 hours
 			(car) - there were car groups
+model8 (beta_model_3) = 60 epoch/4 batch with 1 label - started 10:15
+			(car)
