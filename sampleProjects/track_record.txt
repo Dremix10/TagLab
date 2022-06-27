@@ -56,7 +56,12 @@ Model8:
 -> fixed pic 1, 5, 7, 8, 9 to split all car-groups into single cars
 -> used those pics to train model8 (big_ds_2)
 -> while waiting I refined and fixed (removed all car groups) pic 10
--> used model 8 to label empty pic 1, 9
+-> used model 8 to label empty pic 1, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13
+-> also used model 2 to label empty pic 7
+-> the results are not bad at all but I think the initial model2 was better
+-> will try to replicate model2 (but with cars only) and create an actual comparison between the 2 models
+
+Model9:
 -> 
 
 
@@ -75,6 +80,9 @@ pic10 = 100_0078 - half resolution
 pic11 = 100_0093 - half resolution
 pic12 = 100_0114 - half resolution
 pic13 = 100_0123 - half resolution
+pic14 = 100_0001 - full resolution
+pic15 = 100_0078 - full resolution
+
 
 
 
@@ -93,5 +101,5 @@ model6 (beta_model_1) = 100 epoch/5 batch with 1 label - took 1 hour
 			(car)
 model7 (beta_model_2) = 80 epoch/5 batch with 1 label - took 5 hours
 			(car) - there were car groups
-model8 (beta_model_3) = 60 epoch/4 batch with 1 label - started 10:15
+model8 (beta_model_3) = 60 epoch/4 batch with 1 label - took 3 hours
 			(car)
