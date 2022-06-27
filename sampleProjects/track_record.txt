@@ -55,6 +55,8 @@ Model7:
 Model8:
 -> fixed pic 1, 5, 7, 8, 9 to split all car-groups into single cars
 -> used those pics to train model8 (big_ds_2)
+-> while waiting I refined and fixed (removed all car groups) pic 10
+-> used model 8 to label empty pic 1, 9
 -> 
 
 
