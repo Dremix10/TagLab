@@ -115,5 +115,5 @@ model7 (beta_model_2) = 80 epoch/5 batch with 1 label - took 5 hours
 			(car) - there were car groups
 model8 (beta_model_3) = 60 epoch/4 batch with 1 label - took 3 hours
 			(car)
-model9 (beta_model_4) = 50 epoch/4 batch with 1 label - started 9:50
+model9 (beta_model_4) = 50 epoch/4 batch with 1 label - took 30 minutes
 			(car)
