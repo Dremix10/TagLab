@@ -34,7 +34,7 @@
     200,
     200
    ],
-   "visible": false
+   "visible": true
   },
   "Truck": {
    "id": "Truck",
@@ -50,7 +50,7 @@
     200,
     200
    ],
-   "visible": false
+   "visible": true
   },
   "Car": {
    "id": "Car",
@@ -98,7 +98,7 @@
     200,
     200
    ],
-   "visible": false
+   "visible": true
   },
   "High Tree": {
    "id": "High Tree",
@@ -114,7 +114,7 @@
     200,
     200
    ],
-   "visible": false
+   "visible": true
   }
  },
  "images": [
@@ -981,8 +981,8 @@
      "type": "RGB"
     }
    ],
-   "id": "labelled_pic2_model2",
-   "name": "labelled_pic2_model2",
+   "id": "pic2_model2",
+   "name": "pic2_model2",
    "workspace": [],
    "export_dataset_area": [
     0,
@@ -3445,8 +3445,8 @@
      "type": "RGB"
     }
    ],
-   "id": "labelled_pic3_model3",
-   "name": "labelled_pic3_model3",
+   "id": "pic3_model3_pure",
+   "name": "pic3_model3_pure",
    "workspace": [],
    "export_dataset_area": [],
    "acquisition_date": "2000-01-01",
@@ -7914,8 +7914,8 @@
      "type": "RGB"
     }
    ],
-   "id": "labelled_pic1_overlabelled_model1",
-   "name": "labelled_pic1_overlabelled_model1",
+   "id": "pic1_overlabelled_model1",
+   "name": "pic1_overlabelled_model1",
    "workspace": [],
    "export_dataset_area": [],
    "acquisition_date": "2000-01-01",
@@ -8692,8 +8692,8 @@
      "type": "RGB"
     }
    ],
-   "id": "labelled_pic4_model4",
-   "name": "labelled_pic4_model4",
+   "id": "pic4_model4",
+   "name": "pic4_model4",
    "workspace": [],
    "export_dataset_area": [],
    "acquisition_date": "2000-01-01",
@@ -9406,8 +9406,8 @@
      "type": "RGB"
     }
    ],
-   "id": "labelled_pic4_model2",
-   "name": "labelled_pic4_model2",
+   "id": "pic4_model2",
+   "name": "pic4_model2",
    "workspace": [],
    "export_dataset_area": [
     0,
@@ -10107,8 +10107,8 @@
      "type": "RGB"
     }
    ],
-   "id": "labelled_pic1_model5",
-   "name": "labelled_pic1_model5",
+   "id": "pic1_model5",
+   "name": "pic1_model5",
    "workspace": [],
    "export_dataset_area": [],
    "acquisition_date": "2000-01-01",
@@ -10953,8 +10953,8 @@
      "type": "RGB"
     }
    ],
-   "id": "labelled_pic1_model4",
-   "name": "labelled_pic1_model4",
+   "id": "pic1_model4",
+   "name": "pic1_model4",
    "workspace": [],
    "export_dataset_area": [],
    "acquisition_date": "2000-01-01",
@@ -14013,8 +14013,8 @@
      "type": "RGB"
     }
    ],
-   "id": "labelled_pic1_model2",
-   "name": "labelled_pic1_model2",
+   "id": "pic1_model2",
+   "name": "pic1_model2",
    "workspace": [],
    "export_dataset_area": [],
    "acquisition_date": "2000-01-01",
@@ -17600,8 +17600,8 @@
      "type": "RGB"
     }
    ],
-   "id": "labelled_pic5_model2",
-   "name": "labelled_pic5_model2",
+   "id": "pic5_model2",
+   "name": "pic5_model2",
    "workspace": [],
    "export_dataset_area": [],
    "acquisition_date": "2000-01-01",
@@ -21544,8 +21544,8 @@
      "type": "RGB"
     }
    ],
-   "id": "hand_labelled_pic1_noCarGroups",
-   "name": "hand_labelled_pic1_noCarGroups",
+   "id": "hand_pic1_noCarGroups",
+   "name": "hand_pic1_noCarGroups",
    "workspace": [],
    "export_dataset_area": [
     0,
@@ -22523,8 +22523,8 @@
      "type": "RGB"
     }
    ],
-   "id": "labelled_pic1_model6",
-   "name": "labelled_pic1_model6",
+   "id": "pic1_model6",
+   "name": "pic1_model6",
    "workspace": [],
    "export_dataset_area": [
     0,
@@ -57299,6 +57299,33 @@
    "map_px_to_mm_factor": "3",
    "width": 2736,
    "height": 1824,
+   "annotations": [],
+   "layers": [],
+   "channels": [
+    {
+     "filename": "pictures_used/resized_picture_sample1_use/pic1.JPG",
+     "type": "RGB"
+    }
+   ],
+   "id": "pic1",
+   "name": "pic1",
+   "workspace": [],
+   "export_dataset_area": [],
+   "acquisition_date": "2000-01-01",
+   "georef_filename": "",
+   "metadata": {},
+   "grid": null
+  },
+  {
+   "rect": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "map_px_to_mm_factor": "3",
+   "width": 2736,
+   "height": 1824,
    "annotations": [
     {
      "bbox": [
@@ -60119,23 +60146,23 @@
  ],
  "correspondences": {
   "labelled_pic4_model4-hand_labelled_pic1": {
-   "source": "labelled_pic4_model4",
+   "source": "pic4_model4",
    "target": "hand_labelled_pic1",
    "correspondences": []
   },
   "labelled_pic4_model4-labelled_pic2_model2": {
-   "source": "labelled_pic4_model4",
-   "target": "labelled_pic2_model2",
+   "source": "pic4_model4",
+   "target": "pic2_model2",
    "correspondences": []
   },
   "labelled_pic2_model2-labelled_pic3_model3": {
-   "source": "labelled_pic2_model2",
-   "target": "labelled_pic3_model3",
+   "source": "pic2_model2",
+   "target": "pic3_model3_pure",
    "correspondences": []
   },
   "labelled_pic4_model4-labelled_pic4_model2": {
-   "source": "labelled_pic4_model4",
-   "target": "labelled_pic4_model2",
+   "source": "pic4_model4",
+   "target": "pic4_model2",
    "correspondences": [
     [
      -1,

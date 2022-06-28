@@ -63,7 +63,18 @@ Model8:
 
 Plan:
 -> Stick to models6/8 (no car groups) and try to improve? add more objects?
--> Try to create a model using chosen pictures that have more full and close-up cars to train the model only on full cars
+-> Try to create a model using chosen pictures that have more full and close-up cars to train the model only on full cars (model2-like)
+
+Model9:
+-> restored pic1 labelling like it was when I created model2 and fixed some inaccuracies to only contain full cars
+-> exported it as a dataset (model2_ds_replica) to train model9
+-> predicted pic1 with it and that completely failed, maybe model2 was just lucky training
+-> compared again model2 with model8 and the results are very similar, with model8 being more consistent (logical given the larger ds)
+
+Decision:
+-> model8-way seems the best, improve that by increasing ds and training more batch/epochs? start including other objects?
+
+
 
 
 
@@ -103,4 +114,6 @@ model6 (beta_model_1) = 100 epoch/5 batch with 1 label - took 1 hour
 model7 (beta_model_2) = 80 epoch/5 batch with 1 label - took 5 hours
 			(car) - there were car groups
 model8 (beta_model_3) = 60 epoch/4 batch with 1 label - took 3 hours
+			(car)
+model9 (beta_model_4) = 50 epoch/4 batch with 1 label - started 9:50
 			(car)
