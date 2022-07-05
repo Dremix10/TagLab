@@ -73,6 +73,12 @@ Model9:
 
 Decision:
 -> model8-way seems the best, improve that by increasing ds and training more batch/epochs? start including other objects?
+-> just test a small whole-car-only model to rule that out completely
+
+
+Model10:
+-> refined pics 7, 9, 10 to include whole-cars only
+-> used those pics to train model10 (whole_ds_1)
 
 
 
@@ -92,8 +98,6 @@ pic10 = 100_0078 - half resolution
 pic11 = 100_0093 - half resolution
 pic12 = 100_0114 - half resolution
 pic13 = 100_0123 - half resolution
-pic14 = 100_0001 - full resolution
-pic15 = 100_0078 - full resolution
 
 
 
@@ -117,3 +121,5 @@ model8 (beta_model_3) = 60 epoch/4 batch with 1 label - took 3 hours
 			(car)
 model9 (beta_model_4) = 50 epoch/4 batch with 1 label - took 30 minutes
 			(car)
+model10 (test_model5) = 60 epoch/4 batch with 1 label - started 10:30
+			(car) - single whole cars only
