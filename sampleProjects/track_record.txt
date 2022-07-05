@@ -88,7 +88,7 @@ Model11:
 -> this will create the final/best car-only model and then I will start adding trees and windows
 -> refined/added pics 10, 13 onto big_ds_2
 -> used model8 to predict pics 14, 15, 16 and then refined them
--> used those to train model11 (big_ds_3)
+-> waiting to get more pics from Marios to integrate into big_ds_3
 
 
 
