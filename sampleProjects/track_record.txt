@@ -79,8 +79,16 @@ Decision:
 Model10:
 -> refined pics 7, 9, 10 to include whole-cars only
 -> used those pics to train model10 (whole_ds_1)
+-> predicted pic1 with it and the results aren't good, final decision is that we will go with the model8 way and start adding more objects
 
+** back to groups_split.json project bcs the whole_cars.json test failed **
 
+Model11:
+-> started building big_ds_3 with the big_ds_2 as a foundation, the plan is to add more pictures and train at higher epochs/batch
+-> this will create the final/best car-only model and then I will start adding trees and windows
+-> refined/added pics 10, 13 onto big_ds_2
+-> used model8 to predict pics 14, 15, 16 and then refined them
+-> used those to train model11 (big_ds_3)
 
 
 
@@ -98,6 +106,10 @@ pic10 = 100_0078 - half resolution
 pic11 = 100_0093 - half resolution
 pic12 = 100_0114 - half resolution
 pic13 = 100_0123 - half resolution
+pic14 = 100_0141 - half resolution
+pic15 = 100_0162 - half resolution
+pic16 = 100_0195 - half resolution
+
 
 
 
@@ -121,5 +133,6 @@ model8 (beta_model_3) = 60 epoch/4 batch with 1 label - took 3 hours
 			(car)
 model9 (beta_model_4) = 50 epoch/4 batch with 1 label - took 30 minutes
 			(car)
-model10 (test_model5) = 60 epoch/4 batch with 1 label - started 10:30
+model10 (test_model5) = 60 epoch/4 batch with 1 label - took 2 hours
 			(car) - single whole cars only
+model11 (beta_model5) = 
