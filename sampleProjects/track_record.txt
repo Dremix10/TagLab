@@ -89,6 +89,14 @@ Model11:
 -> refined/added pics 10, 13 onto big_ds_2
 -> used model8 to predict pics 14, 15, 16 and then refined them
 -> waiting to get more pics from Marios to integrate into big_ds_3
+-> the pics were not fully completed and really similar to mine and had diff resolution
+-> big_ds_3 includes pics 1, 5, 7, 8, 9, 10, 13, 14, 15, 16 and was sent to Marios for training
+
+Model12:
+-> started labelling glass in pics 10, 15 and disabled car-view for now
+-> used those pics to train model12 (glass_ds_1)
+-> 
+
 
 
 
@@ -135,4 +143,6 @@ model9 (beta_model_4) = 50 epoch/4 batch with 1 label - took 30 minutes
 			(car)
 model10 (test_model5) = 60 epoch/4 batch with 1 label - took 2 hours
 			(car) - single whole cars only
-model11 (beta_model5) = 
+model11 (beta_model5) = 500 epoch/8 batch with 1 label - overnight
+			(car)
+model12 (glass_model1) = 
