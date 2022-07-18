@@ -145,4 +145,5 @@ model10 (test_model5) = 60 epoch/4 batch with 1 label - took 2 hours
 			(car) - single whole cars only
 model11 (beta_model5) = 500 epoch/8 batch with 1 label - overnight
 			(car)
-model12 (glass_model1) = 
+model12 (glass_model1) = 120 epoch/5 batch with 1 label - started 9:30
+			(glass)
