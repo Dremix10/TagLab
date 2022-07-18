@@ -1,0 +1,218 @@
+{
+ "filename": "sampleProjects/project_final.json",
+ "working_area": null,
+ "dictionary_name": "important_objects",
+ "dictionary_description": "",
+ "labels": {
+  "Empty": {
+   "id": "Empty",
+   "name": "Empty",
+   "description": null,
+   "fill": [
+    127,
+    127,
+    127
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Bus": {
+   "id": "Bus",
+   "name": "Bus",
+   "description": null,
+   "fill": [
+    255,
+    170,
+    0
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Truck": {
+   "id": "Truck",
+   "name": "Truck",
+   "description": null,
+   "fill": [
+    85,
+    0,
+    0
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Car": {
+   "id": "Car",
+   "name": "Car",
+   "description": null,
+   "fill": [
+    170,
+    85,
+    255
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Person": {
+   "id": "Person",
+   "name": "Person",
+   "description": null,
+   "fill": [
+    255,
+    255,
+    0
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Tree": {
+   "id": "Tree",
+   "name": "Tree",
+   "description": null,
+   "fill": [
+    68,
+    255,
+    0
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "High Tree": {
+   "id": "High Tree",
+   "name": "High Tree",
+   "description": null,
+   "fill": [
+    0,
+    170,
+    0
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Glass": {
+   "id": "Glass",
+   "name": "Glass",
+   "description": null,
+   "fill": [
+    255,
+    255,
+    127
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  },
+  "Grass": {
+   "id": "Grass",
+   "name": "Grass",
+   "description": null,
+   "fill": [
+    131,
+    255,
+    129
+   ],
+   "border": [
+    200,
+    200,
+    200
+   ],
+   "visible": true
+  }
+ },
+ "images": [
+  {
+   "rect": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "map_px_to_mm_factor": "3",
+   "width": 2736,
+   "height": 1824,
+   "annotations": [],
+   "layers": [],
+   "channels": [
+    {
+     "filename": "images/used_in_project/pic1.JPG",
+     "type": "RGB"
+    }
+   ],
+   "id": "pic1_hand_ds2",
+   "name": "pic1_hand_ds2",
+   "workspace": [],
+   "export_dataset_area": [],
+   "acquisition_date": "2000-01-01",
+   "georef_filename": "",
+   "metadata": {},
+   "grid": null
+  },
+  {
+   "rect": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "map_px_to_mm_factor": "3",
+   "width": 2736,
+   "height": 1824,
+   "annotations": [],
+   "layers": [],
+   "channels": [
+    {
+     "filename": "images/used_in_project/pic1.JPG",
+     "type": "RGB"
+    }
+   ],
+   "id": "pic1_model1_overlabelled",
+   "name": "pic1_model1_overlabelled",
+   "workspace": [],
+   "export_dataset_area": [],
+   "acquisition_date": "2000-01-01",
+   "georef_filename": "",
+   "metadata": {},
+   "grid": null
+  }
+ ],
+ "correspondences": {},
+ "genet": {},
+ "region_attributes": {
+  "name": "",
+  "description": "",
+  "data": []
+ },
+ "spatial_reference_system": null,
+ "metadata": {},
+ "image_metadata_template": {}
+}

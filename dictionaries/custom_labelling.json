@@ -1,0 +1,150 @@
+{
+  "Name": "Custom_Labelling",
+  "Description": "Labels used in labelling different objects in Nicosia",
+  "Labels": [
+    {
+      "id": "Empty",
+      "name": "Empty",
+      "description": null,
+      "fill": [
+        127,
+        127,
+        127
+      ],
+      "border": [
+        200,
+        200,
+        200
+      ],
+      "visible": true
+    },
+    {
+      "id": "Bus",
+      "name": "Bus",
+      "description": null,
+      "fill": [
+        255,
+        170,
+        0
+      ],
+      "border": [
+        200,
+        200,
+        200
+      ],
+      "visible": true
+    },
+    {
+      "id": "Truck",
+      "name": "Truck",
+      "description": null,
+      "fill": [
+        85,
+        0,
+        0
+      ],
+      "border": [
+        200,
+        200,
+        200
+      ],
+      "visible": true
+    },
+    {
+      "id": "Car",
+      "name": "Car",
+      "description": null,
+      "fill": [
+        170,
+        85,
+        255
+      ],
+      "border": [
+        200,
+        200,
+        200
+      ],
+      "visible": true
+    },
+    {
+      "id": "Person",
+      "name": "Person",
+      "description": null,
+      "fill": [
+        255,
+        255,
+        0
+      ],
+      "border": [
+        200,
+        200,
+        200
+      ],
+      "visible": true
+    },
+    {
+      "id": "Tree",
+      "name": "Tree",
+      "description": null,
+      "fill": [
+        68,
+        255,
+        0
+      ],
+      "border": [
+        200,
+        200,
+        200
+      ],
+      "visible": true
+    },
+    {
+      "id": "High Tree",
+      "name": "High Tree",
+      "description": null,
+      "fill": [
+        0,
+        170,
+        0
+      ],
+      "border": [
+        200,
+        200,
+        200
+      ],
+      "visible": true
+    },
+    {
+      "id": "Glass",
+      "name": "Glass",
+      "description": null,
+      "fill": [
+        255,
+        255,
+        127
+      ],
+      "border": [
+        200,
+        200,
+        200
+      ],
+      "visible": true
+    },
+    {
+      "id": "Grass",
+      "name": "Grass",
+      "description": null,
+      "fill": [
+        131,
+        255,
+        129
+      ],
+      "border": [
+        200,
+        200,
+        200
+      ],
+      "visible": true
+    }
+  ]
+}

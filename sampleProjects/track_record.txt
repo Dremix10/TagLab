@@ -91,11 +91,15 @@ Model11:
 -> waiting to get more pics from Marios to integrate into big_ds_3
 -> the pics were not fully completed and really similar to mine and had diff resolution
 -> big_ds_3 includes pics 1, 5, 7, 8, 9, 10, 13, 14, 15, 16 and was sent to Marios for training
+-> the results Marios sent me look really good, will be taking a closer look once I get 
+
 
 Model12:
 -> started labelling glass in pics 10, 15 and disabled car-view for now
 -> used those pics to train model12 (glass_ds_1)
--> 
+-> predicted pic 15 with it and the results were mediocre
+-> will predict more pictures and then refine them to have a bigger glass ds to train for a better result
+-> predicted pic 1, 13, 14 on pics with already labelled cars
 
 
 
@@ -117,6 +121,8 @@ pic13 = 100_0123 - half resolution
 pic14 = 100_0141 - half resolution
 pic15 = 100_0162 - half resolution
 pic16 = 100_0195 - half resolution
+pic17 = 100_0209 - half resolution
+
 
 
 
@@ -145,5 +151,5 @@ model10 (test_model5) = 60 epoch/4 batch with 1 label - took 2 hours
 			(car) - single whole cars only
 model11 (beta_model5) = 500 epoch/8 batch with 1 label - overnight
 			(car)
-model12 (glass_model1) = 120 epoch/5 batch with 1 label - started 9:30
+model12 (glass_model1) = 120 epoch/5 batch with 1 label - took 3 hours
 			(glass)
