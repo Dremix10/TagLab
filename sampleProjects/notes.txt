@@ -1,6 +1,0 @@
-when new model is trained changed files are:
-
-config.json
-{project_name}.json
-
-actual model.net file created
